@@ -21,12 +21,12 @@ jobs:
         run: python update_lit.py
 
       - name: Upload to Google Drive
-        uses: paraunit/google-drive-upload-action@v1.0.0
+        uses: pieceofquality/google-drive-upload-action@v1
         with:
-          credentials: ${{ secrets.GDRIVE_CREDENTIALS }}
-          filename: "literature_list.md"
+          path: "literature_list.md"
           folderId: ${{ secrets.GDRIVE_FOLDER_ID }}
-          overwrite: "true" # 上書き保存する設定
+          # サービスアカウントではなく、フォルダ所有者の容量を使うための魔法の設定
+          serviceAccountKey: ${{ secrets.GDRIVE_CREDENTIALS }}
           
       - name: Commit and Push
         run: |
