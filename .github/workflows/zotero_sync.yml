@@ -21,13 +21,12 @@ jobs:
         run: python update_lit.py
 
       - name: Upload to Google Drive
-        uses: adityak74/google-drive-upload-git-action@main
+        uses: paraunit/google-drive-upload-action@v1.0.0
         with:
           credentials: ${{ secrets.GDRIVE_CREDENTIALS }}
           filename: "literature_list.md"
           folderId: ${{ secrets.GDRIVE_FOLDER_ID }}
           overwrite: "true" # 上書き保存する設定
-          supportsAllDrives: "true"
           
       - name: Commit and Push
         run: |
