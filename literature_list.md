@@ -1,15 +1,5 @@
 # Zotero My Library
 
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Elastomers for biomedical applications
-- **Auther**: Yoda
-- **Publication**: 1998-01-01
-- **Abstract**: Current topics in elastomers for biomedical applications are reviewed. Elastomeric biomaterials, such as silicones, thermoplastic elastomers, polyolefin and polydiene elastomers, poly(vinyl chloride), natural rubber, heparinized polymers, hydrogels, polypeptides elastomers and others are described. In addition biomedical applications, such as cardiovascular devices, prosthetic devices, general medical care products, transdermal therapeutic systems, orthodontics, and ophthalmology are reviewed as well. Elastomers will find increasing use in medical products, offering biocompatibility, durability, design flexibility, and favorable performance/ cost ratios. Elastomers will play a key role in medical technology of the future.
-
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -49,11 +39,6 @@
 - **Auther**: Fischler, Bolles
 - **Publication**: 6月 1, 1981
 - **Abstract**: A new paradigm, Random Sample Consensus (RANSAC), for fitting a model to experimental data is introduced. RANSAC is capable of interpreting/smoothing data containing a significant percentage of gross errors, and is thus ideally suited for applications in automated image analysis where interpretation is based on the data provided by error-prone feature detectors. A major portion of this paper describes the application of RANSAC to the Location Determination Problem (LDP): Given an image depicting a set of landmarks with known locations, determine that point in space from which the image was obtained. In response to a RANSAC requirement, new results are derived on the minimum number of landmarks needed to obtain a solution, and algorithms are presented for computing these minimum-landmark solutions in closed form. These results provide the basis for an automatic system that can solve the LDP under difficult viewing
-
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
 
 ## Theory of elasticity
 - **Auther**: Timoshenko, Goodier
@@ -134,26 +119,6 @@
 - **Auther**: Adamo, Grimaldi, Campora, Bulone, Bondì, Al-Sheikhly, Sabatino, Dispenza, Ghersi
 - **Publication**: 2016/11
 - **Abstract**: (1) Background: A new family of nanosystems able to discern between normal and tumor cells and to release a therapeutic agent in controlled way were synthetized by e-beam irradiation. This technique permits to obtain biocompatible, sterile, carboxyl-functionalized polyvinylpyrrolidone (PVP-co-acrylic acid) nanogels (NGs); (2) Methods: Here, we performed a targeting strategy based on the recognition of over-expressed proteins on tumor cells, like the folate receptor. The selective targeting was demonstrated by co-culture studies and flow cytometry analysis, using folate conjugated NGs. Moreover, nanoparticles were conjugated to a chemotherapeutic drug or to a pro-apoptotic siRNA through a glutathione sensitive spacer, in order to obtain a controlled release mechanism, specific for cancer cells. The drug efficiency was tested on tumor and healthy cells by flow cytometric analysis, confocal and epifluorescence microscopy and cytotoxicity assay; the siRNA effect was investigated by RNAi experiment; (3) Results: The data obtained showed that the use of NGs permits a faster cargo release in cancer cells, in response to high cytosolic glutathione level, also improving their efficacy; (4) Conclusion: The possibility of releasing biological molecules in a controlled way and to recognize a specific tumor target allows overcoming the typical limits of the classic cancer therapy.
-
-## Multi-Functional Nanogels for Tumor Targeting and Redox-Sensitive Drug and siRNA Delivery
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## 受け入れたバージョン
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## フルテキスト
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## フルテキスト
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
 
 ## Supplementary Information PDF
 - **Auther**: 
@@ -337,11 +302,6 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Publication**: 1988
 - **Abstract**: Physics at Surfaces is a unique graduate-level introduction to the physics and chemical physics of solid surfaces, and atoms and molecules that interact with solid surfaces. A subject of keen scientific inquiry since the last century, surface physics emerged as an independent discipline only in the late 1960s as a result of the development of ultra-high vacuum technology and high speed digital computers. With these tools, reliable experimental measurements and theoretical calculations could at last be compared. Progress in the last decade has been truly striking. This volume provides a synthesis of the entire field of surface physics from the perspective of a modern condensed matter physicist with a healthy interest in chemical physics. The exposition intertwines experiment and theory whenever possible, although there is little detailed discussion of technique. This much-needed text will be invaluable to graduate students and researchers in condensed matter physics, physical chemistry and materials science working in, or taking graduate courses in, surface science
 
-## Amazon.com Link
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## The Surface Tension of Solids
 - **Auther**: Shuttleworth
 - **Publication**: 1950-05
@@ -506,4 +466,44 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Pham, Paven, Wooh, Kajiya, Butt, Vollmer
 - **Publication**: 2017-10
 - **Abstract**: The contact between liquid drops and hot solid surfaces is of practical importance for industrial processes, such as thermal spraying and spray cooling. The contact and bouncing of solid spheres is also an important event encountered in ball milling, powder processing, and everyday activities, such as ball sports. Using high speed video microscopy, we demonstrate that hydrogel drops, initially at rest on a surface, spontaneously jump upon rapid heating and continue to bounce with increasing amplitudes. Jumping is governed by the surface wettability, surface temperature, hydrogel elasticity, and adhesion. A combination of low-adhesion impact behavior and fast water vapor formation supports continuous bouncing and trampolining. Our results illustrate how the interplay between solid and liquid characteristics of hydrogels results in intriguing dynamics, as reflected by spontaneous jumping, bouncing, trampolining, and extremely short contact times.Drops of liquid on a hot surface can exhibit fascinating behaviour such as the Leidenfrost effect in which drops hover on a vapour layer. Here Pham et al. show that when hydrogel drops are placed on a rapidly heated plate they bounce to increasing heights even if they were initially at rest.
+
+## Pierre-giles De Gennes - Scaling concepts in polymer physics-Cornell University Press (1979).pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Scaling concepts in polymer physics
+- **Auther**: Gennes
+- **Publication**: 1979
+- **Abstract**: 
+
+## Viscoelastic Properties of Polymers Ferry.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Viscoelastic properties of polymers
+- **Auther**: Ferry
+- **Publication**: 1980
+- **Abstract**: 
+
+## J-Stage - Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## 次世代の再生医療を実現するパターン培養技術
+- **Auther**: 森田
+- **Publication**: 2005
+- **Abstract**: 
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
 
