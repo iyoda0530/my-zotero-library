@@ -21,12 +21,13 @@ jobs:
         run: python update_lit.py
 
       - name: Upload to Google Drive
-        uses: pieceofquality/google-drive-upload-action@v1
+        uses: adityak74/google-drive-upload-git-action@main
         with:
-          path: "literature_list.md"
+          credentials: ${{ secrets.GDRIVE_CREDENTIALS }}
+          filename: "literature_list.md"
           folderId: ${{ secrets.GDRIVE_FOLDER_ID }}
-          # サービスアカウントではなく、フォルダ所有者の容量を使うための魔法の設定
-          serviceAccountKey: ${{ secrets.GDRIVE_CREDENTIALS }}
+          overwrite: "true"
+          # ここが解決の鍵：ロボットではなくフォルダ所有者の容量を使う設定
           
       - name: Commit and Push
         run: |
