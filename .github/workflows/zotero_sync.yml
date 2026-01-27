@@ -20,15 +20,6 @@ jobs:
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
         run: python update_lit.py
 
-      - name: Upload to Google Drive
-        uses: adityak74/google-drive-upload-git-action@main
-        with:
-          credentials: ${{ secrets.GDRIVE_CREDENTIALS }}
-          filename: "literature_list.md"
-          folderId: ${{ secrets.GDRIVE_FOLDER_ID }}
-          overwrite: "true"
-          # ここが解決の鍵：ロボットではなくフォルダ所有者の容量を使う設定
-          
       - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
