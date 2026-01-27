@@ -1,5 +1,15 @@
 # Zotero My Library
 
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Elastomers for biomedical applications
+- **Auther**: Yoda
+- **Publication**: 1998-01-01
+- **Abstract**: Current topics in elastomers for biomedical applications are reviewed. Elastomeric biomaterials, such as silicones, thermoplastic elastomers, polyolefin and polydiene elastomers, poly(vinyl chloride), natural rubber, heparinized polymers, hydrogels, polypeptides elastomers and others are described. In addition biomedical applications, such as cardiovascular devices, prosthetic devices, general medical care products, transdermal therapeutic systems, orthodontics, and ophthalmology are reviewed as well. Elastomers will find increasing use in medical products, offering biocompatibility, durability, design flexibility, and favorable performance/ cost ratios. Elastomers will play a key role in medical technology of the future.
+
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -496,14 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Pham, Paven, Wooh, Kajiya, Butt, Vollmer
 - **Publication**: 2017-10
 - **Abstract**: The contact between liquid drops and hot solid surfaces is of practical importance for industrial processes, such as thermal spraying and spray cooling. The contact and bouncing of solid spheres is also an important event encountered in ball milling, powder processing, and everyday activities, such as ball sports. Using high speed video microscopy, we demonstrate that hydrogel drops, initially at rest on a surface, spontaneously jump upon rapid heating and continue to bounce with increasing amplitudes. Jumping is governed by the surface wettability, surface temperature, hydrogel elasticity, and adhesion. A combination of low-adhesion impact behavior and fast water vapor formation supports continuous bouncing and trampolining. Our results illustrate how the interplay between solid and liquid characteristics of hydrogels results in intriguing dynamics, as reflected by spontaneous jumping, bouncing, trampolining, and extremely short contact times.Drops of liquid on a hot surface can exhibit fascinating behaviour such as the Leidenfrost effect in which drops hover on a vapour layer. Here Pham et al. show that when hydrogel drops are placed on a rapidly heated plate they bounce to increasing heights even if they were initially at rest.
-
-## Pierre-giles De Gennes - Scaling concepts in polymer physics-Cornell University Press (1979).pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Scaling concepts in polymer physics
-- **Auther**: Gennes
-- **Publication**: 1979
-- **Abstract**: 
 
