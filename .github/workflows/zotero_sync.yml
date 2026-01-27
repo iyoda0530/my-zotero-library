@@ -1,7 +1,7 @@
 name: Zotero Auto Sync
 on:
   schedule:
-    - cron: '0 15 * * *' # 毎日日本時間の深夜0時に実行
+    - cron: '*/15 * * * *' # 15分ごとに実行（ここでお好みの間隔に調整）
   workflow_dispatch:      # 手動実行ボタンも作成
 
 jobs:
@@ -23,6 +23,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add literature_list.md
-          git commit -m "Automated Zotero sync" || exit 0
-          git push
+          # 変更があるファイル（.mdとlast_version.txt）があればCommit
+          git add literature_list.md last_version.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync: Zotero update detected" && git push)
