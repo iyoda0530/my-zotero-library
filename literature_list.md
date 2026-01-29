@@ -1,5 +1,10 @@
 # Zotero My Library
 
+## Onsager’s variational principle in soft matter
+- **Auther**: Doi
+- **Publication**: 2011-06
+- **Abstract**: In the celebrated paper on the reciprocal relation for the kinetic coefficients in irreversible processes, Onsager (1931 Phys. Rev. 37 405) extended Rayleigh’s principle of the least energy dissipation to general irreversible processes. In this paper, I shall show that this variational principle gives us a very convenient framework for deriving many established equations which describe the nonlinear and non-equilibrium phenomena in soft matter, such as phase separation kinetics in solutions, gel dynamics, molecular modeling for viscoelasticity nemato-hydrodynamics, etc. Onsager’s variational principle can therefore be regarded as a solid general basis for soft matter physics.
+
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -501,9 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: 森田
 - **Publication**: 2005
 - **Abstract**: 
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
 
