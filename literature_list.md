@@ -1,5 +1,45 @@
 # Zotero My Library
 
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Dynamic Creation of 3D Hydrogel Architectures via Selective Swelling Programmed by Interfacial Bonding
+- **Auther**: Takahashi, Miyazako, Tanaka, Ueno
+- **Publication**: 2019-08-07
+- **Abstract**: The topological features of material surfaces are crucial to the emergence of functions based on characteristic architectures. Among them, the combination of surface architectures and soft materials, which are highly deformable and flexible, has great potential as regards developing functional materials toward providing/enhancing advanced functions such as switchability and variability. Therefore, a simple yet versatile method for creating three-dimensional (3D) architectures based on soft materials is strongly required. In this study, hydrogels are selected as the soft materials and hydrogel film/rigid substrate layer composites are fabricated to obtain a 3D hydrogel architecture based on swelling instability. When a hydrogel film weakly attached to a rigid substrate is exposed to water, swelling-driven compressive stress induces buckle-delamination of the film from the substrate. Utilizing the chemical modification of a rigid substrate and a conventional photolithography technique, the delamination location is successfully controlled, resulting in a high-aspect-ratio folding architecture at an arbitrary position. In addition, we systematically designed the delamination geometry and chemically tuned the swelling ratio of the hydrogel, leading to the discovery of several new morphology transitions and relationships between the morphologies and the controllable parameters. This work provides a new approach to fabricating highly programmable 3D architectures of soft materials.
+
+## Dynamic Creation of 3D Hydrogel Architectures via Selective Swelling Programmed by Interfacial Bonding | ACS Applied Materials & Interfaces
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## PubMed entry
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Preparation of thermoresponsive polymer brush surfaces and their interaction with cells
+- **Auther**: Mizutani, Kikuchi, Yamato, Kanazawa, Okano
+- **Publication**: 2008-05
+- **Abstract**: Poly(N-isopropylacrylamide) (PIPAAm) brush surfaces with different layer thickness on polystyrene substrates were prepared by surface-initiated atom transfer radical polymerization (ATRP). Surface characteristics of PIPAAm brushes and their influence on adhesion and detachment of bovine carotid artery endothelial cells (ECs) were controlled by PIPAAm layer thickness. Surface hydrophilicity increased with PIPAAm layer thickness at 37 degrees C because PIPAAm brush surfaces with higher thickness provide more extended chain conformations with relatively high chain mobility, and accompanying polymer chain hydration. These surface property alterations lead to negligible cell adhesion through minimal matrix protein adsorption and also modified surface modulus. By adjusting polymerization reaction conditions and time, polymer layers supporting confluent cultures of ECs were possible. Confluent EC monolayers spontaneously detached as contiguous cell sheets from PIPAAm brush surfaces at reduced temperatures. Thermoresponsive cell adhesion and detachment behavior were analyzed from the standpoint of surface physicochemical characteristics. Thermoresponsive surfaces prepared by surface-initiated ATRP techniques allow surface selection in preparing cell sheets from attachment-dependent cells having relatively strong adhesive property for tissue engineering applications.
+
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Humidity responsiveness of a poly(N-isopropylacrylamide) gel with a PEG/water mixed solvent
+- **Auther**: Makita, Akimoto, Enomoto, Nishimoto, Li, Shibayama, Yoshida
+- **Publication**: 2024-06
+- **Abstract**: This manuscript presents the humidity responsiveness of a poly(N-isopropylacrylamide) (PNIPAAm) gel, which was capable of exhibiting volume changes. The strategy for inducing volume changes in the gel capitalized on the differences in PNIPAAm solubility, which stemmed from variations in the polyethylene glycol (PEG) proportions of PEG/water solvent mixtures. Due to the hygroscopic nature of PEG, PNIPAAm gels using PEG as the solvent (weight fraction of PEG, φPEG = 1.00) absorbed ambient moisture, resulting in a decrease in φPEG over time. In concert with this moisture absorption process, the PNIPAAm gel contracted owing to phase separation at a consistent room temperature, which was attributed to the diminished solubility of PNIPAAm in the solvent. During this investigation, we scrutinized the temperature dependency of the optical transmittance and conducted differential scanning calorimetry (DSC) assessments on free PNIPAAm in water across various φPEG values to substantiate phase separation of the system. We then demonstrated that a PNIPAAm gel with a PEG/water mixed solvent underwent volume changes in response to humidity changes. Additionally, humidity-induced shape deformations were realized with a PNIPAAm and poly(N,N-dimethylacrylamide) (PDMAAm) composite gel. This study introduces, for the first time, a humidity-responsive PNIPAAm gel with a PEG/water mixed solvent.
+
 ## Onsager’s variational principle in soft matter
 - **Auther**: Doi
 - **Publication**: 2011-06
@@ -466,44 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
-
-## Spontaneous jumping, bouncing and trampolining of hydrogel drops on a heated plate
-- **Auther**: Pham, Paven, Wooh, Kajiya, Butt, Vollmer
-- **Publication**: 2017-10
-- **Abstract**: The contact between liquid drops and hot solid surfaces is of practical importance for industrial processes, such as thermal spraying and spray cooling. The contact and bouncing of solid spheres is also an important event encountered in ball milling, powder processing, and everyday activities, such as ball sports. Using high speed video microscopy, we demonstrate that hydrogel drops, initially at rest on a surface, spontaneously jump upon rapid heating and continue to bounce with increasing amplitudes. Jumping is governed by the surface wettability, surface temperature, hydrogel elasticity, and adhesion. A combination of low-adhesion impact behavior and fast water vapor formation supports continuous bouncing and trampolining. Our results illustrate how the interplay between solid and liquid characteristics of hydrogels results in intriguing dynamics, as reflected by spontaneous jumping, bouncing, trampolining, and extremely short contact times.Drops of liquid on a hot surface can exhibit fascinating behaviour such as the Leidenfrost effect in which drops hover on a vapour layer. Here Pham et al. show that when hydrogel drops are placed on a rapidly heated plate they bounce to increasing heights even if they were initially at rest.
-
-## Pierre-giles De Gennes - Scaling concepts in polymer physics-Cornell University Press (1979).pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Scaling concepts in polymer physics
-- **Auther**: Gennes
-- **Publication**: 1979
-- **Abstract**: 
-
-## Viscoelastic Properties of Polymers Ferry.pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Viscoelastic properties of polymers
-- **Auther**: Ferry
-- **Publication**: 1980
-- **Abstract**: 
-
-## J-Stage - Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## 次世代の再生医療を実現するパターン培養技術
-- **Auther**: 森田
-- **Publication**: 2005
-- **Abstract**: 
 
