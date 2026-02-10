@@ -1,5 +1,65 @@
 # Zotero My Library
 
+## Wettability of porous surfaces
+- **Auther**: Cassie, Baxter
+- **Publication**: 1944-01-01
+- **Abstract**: No abstract available
+
+## Surface Roughness and Contact Angle.
+- **Auther**: Wenzel
+- **Publication**: 1949-09-01
+- **Abstract**: 
+
+## APS Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Wetting: statics and dynamics
+- **Auther**: de Gennes
+- **Publication**: 1985-07-01
+- **Abstract**: The wetting of solids by liquids is connected to physical chemistry (wettability), to statistical physics (pinning of the contact line, wetting transitions, etc.), to long-range forces (van der Waals, double layers), and to fluid dynamics. The present review represents an attempt towards a unified picture with special emphasis on certain features of "dry spreading": (a) the final state of a spreading droplet need not be a monomolecular film; (b) the spreading drop is surrounded by a precursor film, where most of the available free energy is spent; and (c) polymer melts may slip on the solid and belong to a separate dynamical class, conceptually related to the spreading of superfluids.
+
+## 報告したバージョン
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Tuning the Receding Contact Angle on Hydrogels by Addition of Particles
+- **Auther**: Boulogne, Ingremeau, Limat, Stone
+- **Publication**: 2016-06-07
+- **Abstract**: Control of the swelling, chemical functionalization, and adhesivity of hydrogels are finding new applications in a wide range of material systems. We investigate experimentally the effect of adsorbed particles on hydrogels on the depinning of contact lines. In our experiments, a water drop containing polystyrene microspheres is deposited on a swelling hydrogel, which leads to the drop absorption and particle deposition. Two regimes are observed: a decreasing drop height with a pinned contact line followed by a receding contact line. We show that increasing the particles concentration increases the duration of the first regime and significantly decreases the total absorption time. The adsorbed particles increase the pinning force at the contact line. Finally, we develop a method to measure the receding contact angle with the consideration of the hydrogel swelling.
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Cell Movement Is Guided by the Rigidity of the Substrate
+- **Auther**: Lo, Wang, Dembo, Wang
+- **Publication**: 2000-07-01
+- **Abstract**: Directional cell locomotion is critical in many physiological processes, including morphogenesis, the immune response, and wound healing. It is well known that in these processes cell movements can be guided by gradients of various chemical signals. In this study, we demonstrate that cell movement can also be guided by purely physical interactions at the cell-substrate interface. We cultured National Institutes of Health 3T3 fibroblasts on flexible polyacrylamide sheets coated with type I collagen. A transition in rigidity was introduced in the central region of the sheet by a discontinuity in the concentration of the bis-acrylamide cross-linker. Cells approaching the transition region from the soft side could easily migrate across the boundary, with a concurrent increase in spreading area and traction forces. In contrast, cells migrating from the stiff side turned around or retracted as they reached the boundary. We call this apparent preference for a stiff substrate “durotaxis.” In addition to substrate rigidity, we discovered that cell movement could also be guided by manipulating the flexible substrate to produce mechanical strains in the front or rear of a polarized cell. We conclude that changes in tissue rigidity and strain could play an important controlling role in a number of normal and pathological processes involving cell locomotion.
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Contact angles of liquids at deformable solid surfaces
+- **Auther**: Lester
+- **Publication**: 1961-08-01
+- **Abstract**: The relation between the contact angles and the interfacial tensions for a liquid droplet resting on a solid surface is examined. Neumann's triangle of forces is valid, in principle, for contact angles on solids, liquids, or gels so long as an equilibrium configuration is possible. If the solid is nondeformable, Neumann's triangle of forces is equivalent to Young's equation. Only in the case of nondeformable solid surfaces is Young's equation applicable, since the interfacial boundary does not remain planar in other cases. If a solid has a deformability within a certain range, the experimentally measured angles will be neither the angles in Young's equation nor those in Neumann's triangle. This is illustrated by an analysis of the nature of the deformation produced in the solid surface for an assumed stress distribution. Whereas the magnitude of the deformation may be infinitesimal, this is not true of the curvature as the three-phase boundary is approached. Neumann's condition is, therefore, of a largely formal character since it relates to angles which have no assignable significance. Criteria which define the limitations of Young's equation and Neumann's triangle are derived.
+
 ## PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -446,64 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Hiroi, Ohl, Sakai, Shibayama
 - **Publication**: 2014-01-28
 - **Abstract**: For precise understanding of the dynamics of gels, it is necessary to distinguish the effect of inherent cross-linking from accompanying inhomogeneity. This separation is realized by the use of inhomogeneity-free gel such as Tetra-PEG gel. We investigated the dynamics of Tetra-PEG gel by quasi-elastic scattering. Mesoscopic (length scale: ∼100 nm) motion was measured by dynamic light scattering (DLS). In addition to this scale, we used neutron spin echo (NSE) to measure microscopic (length scale: ∼1 nm) motion. From these measurements, it is revealed that the gels with no connectivity/topological inhomogeneities show the transition from Zimm mode to collective diffusion mode in larger length scale, even beyond the q-range of NSE. In addition to this, the absence of spatial inhomogeneities is reflected as disappearance of nondecay component in the intermediate dynamic structure factor. Through the combination analysis of DLS and NSE, the multiscale dynamics of gels is elucidated.
-
-## 高分子ゲルの物理学 : 構造・物性からその応用まで
-- **Auther**: 酒井, 片島, 赤木, Xiang
-- **Publication**: 2017
-- **Abstract**: 
-
-## ラジカル重合ハンドブック
-- **Auther**: 上垣外, 澤本, 高田, 辻井, 松本
-- **Publication**: 2023
-- **Abstract**: 
-
-## Effect of phase transition on swelling and mechanical behavior of synthetic hydrogels
-- **Auther**: Ilavský, Dušek
-- **Publication**: 1993
-- **Abstract**: The effect of the concentration of the charge, its polarity, and position in the side chain together with the effect of amount of diluent and crosslinker at network formation on the appearance and the extent of the first-order phase transition in the swollen ionized polyacrylamide gels in water-acetone mixtures and in ionized poly (N,N′-diethylacrylamide) gels in water is summarized. The results of the swelling, photoelastic, and mechanical behavior together with small-angle neutron scattering, direct-current conductivity and dielectric measurements of these hydrogels in the collapse region are presented and it is shown that a jumpwise volume change at the transition correlates with jumpwise changes in the equilibrium modulus, the stress-optical coefficient, both components of the complex permittivity and modulus, and in the conductivity. The chains were found to have the form of a Gaussian coil in the expanded state and a compact globular structure in the collapsed state. The theory describing the swelling equilibria in polyelectrolyte networks is analyzed and it is shown that experimental swelling behavior of polyacrylamide gels at the collapse can be described by this theory if the correction factor for the effective degree of ionization is introduced.
-
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Deformational, swelling, and potentiometric behavior of ionized poly(methacrylic acid) gels. I. Theory
-- **Auther**: Hasa, Ilavský, Dušek
-- **Publication**: 1975
-- **Abstract**: By using the model of a randomly coiled chain, a relation is derived describing the equilibrium stress–strain behavior of variously ionized polyelectrolyte gels swollen in solutions of a uni–univalent salt. The effect of the concentration of bound counterions calculated on the basis of the cylindrical model and the effect of the change of length of the statistical chain segment with the change in ionization of the gel on stress–strain, swelling, and potentiometric equilibria is discussed.
-
-## 163589a0
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Theory of Solutions of High Polymers1
-- **Auther**: Huggins
-- **Publication**: 1942-07-01
-- **Abstract**: 
-
-## jchemphys_10_51.pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Thermodynamics of High Polymer Solutions
-- **Auther**: Flory
-- **Publication**: 1942-01-01
-- **Abstract**: A statistical mechanical treatment of high polymer solutions has been carried out on the basis of an idealized model, originally proposed by Meyer, which is analogous to the one ordinarily assumed in the derivation of the ``ideal'' solution laws for molecules of equal size. There is obtained for the entropy of mixing of n solvent and N linear polymer molecules (originally disoriented), ΔS=-k[(n/β) ln v1+N ln v2] where v1 and v2 are volume fractions and β is the number of solvent molecules replaceable by a freely orienting segment of the polymer chain. This expression is similar in form to the classical expression for equal-sized molecules, mole fractions having been replaced by volume fractions. When the disparity between the sizes of the two components is great, this expression gives entropies differing widely from the classical values, which accounts for the large deviations of high polymer solutions from ``ideal'' behavior. The entropy of disorientation of a perfectly arranged linear polymer is found to be of the order of R cal. per chain segment. After introducing a suitable heat of mixing term, partial molal free energies are computed, and the calculations are compared with experimental data for all concentrations. Phase equilibria have been calculated in the region of partial miscibility. The theory predicts, in agreement with experiment, that the critical composition for partial miscibility lies at a low concentration of polymer. Low intrinsic viscosities of polymers dissolved in poor solvents are attributed to the tendency for the molecule to assume a more compact configuration in such an environment.
-
-## Cross-link Density Dependence of Spatial Inhomogeneities and Dynamic Fluctuations of Poly(N-isopropylacrylamide) Gels
-- **Auther**: Shibayama, Norisuye, Nomura
-- **Publication**: 1996-01-01
-- **Abstract**: Dynamic light scattering studies have been carried out on poly(N-isopropylacrylamide) (NIPA) gels having different cross-link densities. Intensity−intensity time correlation functions obtained at 25 °C were successfully analyzed by taking account of the nonergodic nature of gels. By taking the ensemble average (〈I〉E) of the time average scattered intensity (〈I〉T), the dynamic component of the concentration fluctuations (〈IF〉T) and the spatial inhomogeneities (〈I〉E; the ensemble average) were evaluated as a function of cross-link density. While 〈IF〉T remained more or less constant, 〈I〉E increased with the increasing ratio of cross-linker concentration (CBIS) to the monomer concentration (CNIPA), r ≡ CBIS/CNIPA, where BIS is the abbreviation of the cross-linker, N,N‘-methylenebis(acrylamide). This indicates domination of the static inhomogeneity for large r. The correlation length, ξ, a measure of the range of dynamic fluctuations, was evaluated from the time correlation function. A linear relationship was obtained for ξ-1, i.e., 1/ξ = (1/ξsoln) + (1/ ξgel)r, with ξsoln = 144 Å and ξgel = 8.12 Å. The value of ξgel was found to be in good agreement with the literature value for the segment length of NIPA polymers, 8.12 Å.
-
-## フルテキスト
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PubMed entry
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
 
