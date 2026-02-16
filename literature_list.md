@@ -1,5 +1,120 @@
 # Zotero My Library
 
+## Percolation-induced gel–gel phase separation in a dilute polymer network
+- **Auther**: Ishikawa, Iwanaga, Uneyama, Li, Hojo, Fujinaga, Katashima, Saito, Okada, Chung, Sakumichi, Sakai
+- **Publication**: 2023-12
+- **Abstract**: Cosmic large-scale structures, animal flocks and living tissues can be considered non-equilibrium organized systems created by dissipative processes. Replicating such properties in artificial systems is still difficult. Herein we report a dissipative network formation process in a dilute polymer–water mixture that leads to percolation-induced gel–gel phase separation. The dilute system, which forms a monophase structure at the percolation threshold, spontaneously separates into two co-continuous gel phases with a submillimetre scale (a dilute-percolated gel) during the deswelling process after the completion of the gelation reaction. The dilute-percolated gel, which contains 99% water, exhibits unexpected hydrophobicity and induces the development of adipose-like tissues in subcutaneous tissues. These findings support the development of dissipative structures with advanced functionalities for distinct applications, ranging from physical chemistry to tissue engineering.
+
+## Ishikawa et al. - 2023 - Percolation-induced gel–gel phase separation in a .pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Stimuli-responsive hydrogel dressing for wound healing
+- **Auther**: Zhang, Hu, Wu, Lin, Cai
+- **Publication**: 2025/01/01
+- **Abstract**: Wound healing is a complex, variable, and time-dynamic repair process. Wounds can be classified as acute wounds or chronic wounds, and effective wound managemen
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Injectable Self-Healing Antibacterial Bioactive Polypeptide-Based Hybrid Nanosystems for Efficiently Treating Multidrug Resistant Infection, Skin-Tumor Therapy, and Enhancing Wound Healing
+- **Auther**: Zhou, Xi, Xue, Wang, Liu, Guo, Lei
+- **Publication**: 2019
+- **Abstract**: The surgical procedure in skin-tumor therapy usually results in cutaneous defects, and multidrug-resistant bacterial infection could cause chronic wounds. Here, for the first time, an injectable self-healing antibacterial bioactive polypeptide-based hybrid nanosystem is developed for treating multidrug resistant infection, skin-tumor therapy, and wound healing. The multifunctional hydrogel is successfully prepared through incorporating monodispersed polydopamine functionalized bioactive glass nanoparticles (BGN@PDA) into an antibacterial F127-ε-Poly-L-lysine hydrogel. The nanocomposites hydrogel displays excellent self-healing and injectable ability, as well as robust antibacterial activity, especially against multidrug-resistant bacteria in vitro and in vivo. The nanocomposites hydrogel also demonstrates outstanding photothermal performance with (near-infrared laser irradiation) NIR irradiation, which could effectively kill the tumor cell (>90%) and inhibit tumor growth (inhibition rate up to 94%) in a subcutaneous skin-tumor model. In addition, the nanocomposites hydrogel effectively accelerates wound healing in vivo. These results suggest that the BGN-based nanocomposite hydrogel is a promising candidate for skin-tumor therapy, wound healing, and anti-infection. This work may offer a facile strategy to prepare multifunctional bioactive hydrogels for simultaneous tumor therapy, tissue regeneration, and anti-infection.
+
+## Supplementary Information PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Enzymatic crosslinking to fabricate antioxidant peptide-based supramolecular hydrogel for improving cutaneous wound healing
+- **Auther**: Wei, Duan, Ma, Zhang, Wang, Hu
+- **Publication**: 2019-03-27
+- **Abstract**: Peptide-based supramolecular hydrogels are promising scaffold materials and have been utilized in many fields. The mechanical properties of peptide hydrogels are usually enhanced by synthetic or natural polymers to expand their application scope. In this study, antioxidant supramolecular hydrogels based on feruloyl-modified peptide and glycol chitosan were fabricated via a mild laccase-mediated crosslinking reaction. A natural polysaccharide derivative, feruloyl glycol chitosan (GC-Fer), was used to enhance the mechanical properties of peptide hydrogels. Feruloyl groups were introduced into the gel matrix via covalent bonds, which endowed the hydrogels with inherent antioxidant properties. This was beneficial for their in vivo application via scavenging harmful free radicals existing in a cutaneous wound. Further in vivo experiments demonstrated that the feruloyl-containing antioxidant hydrogel can improve the cutaneous wound healing process. The regeneration process of mature epithelium and connective tissues was accelerated in a full-thickness skin defect model.
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Quaternized chitosan-Matrigel-polyacrylamide hydrogels as wound dressing for wound repair and regeneration
+- **Auther**: Xue, Hu, Xiong, Zhu, Wei, Cao, Zhou, Sun, Endo, Liu, Liu, Liu, Abududilibaier, Chen, Yan, Mi, Liu
+- **Publication**: 2019-12-15
+- **Abstract**: Hydrogels could be promising wound healing dressings that maintain a moist environment in the wound site and accelerate wound healing. However, the lack of antibacterial effect, suitable mechanical property and adhesiveness limits their applications. Here, we designed a quaternized chitosan-Matrigel-polyacrylamide (QCS-M-PAM) hydrogel with multi-functions. The morphology, swelling ratio, mechanical test, antimicrobial property, hemostatic performance and biocompatibility of the hybrid hydrogel were investigated in vitro and vivo. The hybrid hydrogel showed a three-dimensional (3D) microporous structure, high swelling ratio, excellent stretchable and compressive property, similar modulus to human skin, good adhesiveness, and low cytotoxicity. The results of histology and molecular testing in vivo demonstrated that the hybrid hydrogel could significantly enhance wound healing, collagen deposition, and induce skin adnexal regeneration by upregulating anti-inflammatory factors, and downregulating proinflammatory factors. Together, the present antibacterial hydrogels with hemostatic and adhesive properties are considered to have promising potential used as wound dressings for full-thickness skin defect.
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Carrageenan-based functional hydrogel film reinforced with sulfur nanoparticles and grapefruit seed extract for wound healing application
+- **Auther**: Jaiswal, Shankar, Rhim
+- **Publication**: 2019-11-15
+- **Abstract**: κ-Carrageenan-based (Carr) functional wound healing hydrogel films were prepared by incorporating chitosan capped sulfur nanoparticles (SNP) and grapefruit seed extract (GSE). In vivo wound healing effect of the hydrogel films was tested using artificially wounded male Sprague-Dawley rats. The hydrogel film (Carr/GSE/SNP) showed higher mechanical strength, swelling ratio and ultraviolet barrier properties than the carrageenan film, but the water vapor permeability and water solubility were decreased. The hydrogel film showed antibacterial activity strong enough to destroy Staphylococcus epidermis and Escherichia coli within 3 h of incubation and showed high biocompatibility against mouse fibroblast (L929 cell lines). The hydrogel film (Carr/GSE/SNP3%) showed excellent wound healing effect (1.3% wound area after 2 weeks) compared to the control group (31% wound area after 2 weeks) through in vivo wound healing test. Histological examination showed the complete appearance of the healed epidermis. The Carr/GSE/SNP hydrogel films are most likely to be used for the treatment of full-thickness wounds.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Supplementary Information PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Nanoparticles/thermosensitive hydrogel reinforced with chitin whiskers as a wound dressing for treating chronic wounds
+- **Auther**: Xia, Liu, Tian, Gao, Bao, Bai, Yu, Lang, Hu, Chen
+- **Publication**: 2017-05-03
+- **Abstract**: Cutaneous chronic wounds are characterized by impaired wound healing which may lead to infection and even amputation. To surmount this problem, we developed a chitin whisker (CW)/carboxymethyl chitosan nanoparticles (CMCS NPs)/thermosensitive hydroxybutyl chitosan (HBC) composite hydrogel (CW/NPs/HBC-HG) as a wound dressing for treating chronic wounds. Upon introduction of CWs, the composite hydrogel exhibited a significant decrease in gelation temperature and enhanced mechanical properties. The storage modulus (G′) of the CW/NPs/HBC-HG was 3.6 times that of the NPs/HBC-HG at 37 °C and the ex vivo rat skin test also showed that the mechanical properties were significantly improved. Linezolid, a wide-spectrum antibiotic, was dissolved directly in the water phase of the composite hydrogel, and the antibacterial activity of the composite hydrogel against Escherichia coli and Staphylococcus aureus was up to 99% until 7 days. When recombinant human epidermal growth factor (rhEGF) was encapsulated into the NPs, the CW/NPs/HBC-HG offered prolonged cell proliferation activity up to 5 days. More importantly, the in vivo chronic wound healing model evaluation in diabetic rats revealed that the CW/NPs/HBC-HG dressing promoted wound healing and accelerated reepithelialization, collagen deposition and angiogenesis. These findings demonstrated that CW/NPs/HBC-HG is a promising dressing for chronic wounds.
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Acceleration of wound contraction and healing with a photocrosslinkable chitosan hydrogel
+- **Auther**: Ishihara, Ono, Sato, Nakanishi, Saito, Yura, Matsui, Hattori, Fujita, Kikuchi, Kurita
+- **Publication**: 2001
+- **Abstract**: Application of ultraviolet light irradiation to a photocrosslinkable chitosan aqueous solution resulted in an insoluble, flexible hydrogel like soft rubber within 60 seconds. In order to evaluate its accelerating effect on wound healing, full-thickness skin incisions were made on the backs of mice and subsequently a photocrosslinkable chitosan aqueous solution was added into the wound and irradiated with UV light for 90 seconds. Application of the chitosan hydrogel significantly induced wound contraction and accelerated wound closure and healing compared with the untreated controls. Histological examination also showed an advanced contraction rate on the first 2 days and tissue fill rate on days 2 to 4 in the chitosan hydrogel-treated wounds. Furthermore, in cell culture studies, chitosan hydrogel culture medium supplemented with 5% fetal–bovine serum was found to be chemoattractant for human dermal fibroblasts in an invasion chamber assay using filters coated with Matrigel and in a cell migration assay. Due to its ability to accelerate wound contraction and healing, chitosan hydrogel may become accepted as an occlusive dressing for wound management.
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Chitosan/polyethylene glycol diacrylate films as potential wound dressing material
+- **Auther**: Zhang, Yang, Nie
+- **Publication**: 2008-12-01
+- **Abstract**: Michael addition reaction of Chitosan (CS) and polyethylene glycol diacrylate (PEGDA) was carried out successfully in acidic solution. Films with CS/PEGDA weight ratios from 100/0 to 0/100 in 10% increments were analyzed by Fourier transform infrared (FTIR) spectroscopy, Scanning Electron Microscope (SEM) and X-Ray Diffraction (XRD). Additionally, the films were characterized by measuring mechanical property, swelling property. The potential application of the CS/PEGDA film as wound dressing material was evaluated in vitro by using mouse fibroblasts (L929) as reference cell lines, indirect cytotoxicity assessment indicated that CS/PEGDA films were nontoxic to L929 cell.
+
 ## Wettability of porous surfaces
 - **Auther**: Cassie, Baxter
 - **Publication**: 1944-01-01
@@ -391,119 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
-
-## メカノバイオロジーの誕生と今後の展望(<特集>機械工学のフロンティアを切り開くバイオエンジニアリング)
-- **Auther**: 曽我部
-- **Publication**: 2017
-- **Abstract**: 
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Physics at surfaces
-- **Auther**: Zangwill
-- **Publication**: 1988
-- **Abstract**: Physics at Surfaces is a unique graduate-level introduction to the physics and chemical physics of solid surfaces, and atoms and molecules that interact with solid surfaces. A subject of keen scientific inquiry since the last century, surface physics emerged as an independent discipline only in the late 1960s as a result of the development of ultra-high vacuum technology and high speed digital computers. With these tools, reliable experimental measurements and theoretical calculations could at last be compared. Progress in the last decade has been truly striking. This volume provides a synthesis of the entire field of surface physics from the perspective of a modern condensed matter physicist with a healthy interest in chemical physics. The exposition intertwines experiment and theory whenever possible, although there is little detailed discussion of technique. This much-needed text will be invaluable to graduate students and researchers in condensed matter physics, physical chemistry and materials science working in, or taking graduate courses in, surface science
-
-## The Surface Tension of Solids
-- **Auther**: Shuttleworth
-- **Publication**: 1950-05
-- **Abstract**: A distinction is made between the surface Helmholtz free energy F, and the surface tension γ. The surface energy is the work necessary to form unit area of surface by a process of division: the surface tension is the tangential stress (force per unit length) in the surface layer; this stress must be balanced either by external forces or by volume stresses in the body. The surface tension of a crystal face is related to the surface free energy by the relation γ=F+A(dF/dA), where A is the area of the surface. For a one-component liquid, surface free energy and tension are equal. For crystals the surface tension is not equal to the surface energy. The standard thermodynamic formulae of surface physics are reviewed, and it is found that the surface free energy appears in the expression for the equilibrium contact angle, and in the Kelvin expression for the excess vapour pressure of small drops, but that the surface tension appears in the expression for the difference in pressure between the two sides of a curved surface. The surface tensions of inert-gas and alkali-halide crystals are calculated from expressions for their surface energies and are found to be negative. The surface tensions of homopolar crystals are zero if it is possible to neglect the interaction between atoms that are not nearest neighbours.
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## The Shuttleworth equation: Its modifications and current state
-- **Auther**: Marichev
-- **Publication**: 2011-01-01
-- **Abstract**: Derivation of the Shuttleworth equation is based on the experimental approach and data for viscous-liquid flow of copper close to its melting point. It includes contradictory statements and thus cannot be valid for the surface tension of true solids at ambient conditions. Neither this equation nor its corollaries had experimental confirmation till now, for more than a half of century.
-
-## 表面張力
-- **Auther**: 小野
-- **Publication**: 1980
-- **Abstract**: 
-
-## Fowkes 式の拡張と高分子固体の表面張力の評価 Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Fowkes 式の拡張と高分子固体の表面張力の評価
-- **Auther**: 
-- **Publication**: 1972
-- **Abstract**: 
-
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Calculation of interfacial tension in polymer systems
-- **Auther**: Wu
-- **Publication**: 1971
-- **Abstract**: We propose an equation, based on “reciprocal” mean and force additivity, for calculating the interfacial tension between polymers or between a polymer and an ordinary liquid: \documentclassarticle\pagestyleempty\begindocument\ \gamma _12 = \gamma _1 + \gamma _2 - \frac4\gamma _1 ^\rm d \gamma _2 ^\rm d\gamma _1 ^\rm d + \gamma _2 ^\rm d - \frac4\gamma _1 ^\rm p \gamma _2 ^\rm p\gamma _1 ^\rm p + \gamma _2 ^\rm p \enddocument where γ12 is the interfacial tension; γi the surface tension; γ and γ the dispersion and polar components of γi, respectively. This equation is shown to predict accurately the interfacial tension between polymers or between a polymer and an ordinary liquid. Fowkes' equation or Fowkes' equation with a geometric-mean polar term 2(γiPγ2p)1/2 is not applicable to polarlpolar systems. The interfacial tension arises mainly from disparity in the polarities of the two phases. The above equation can also be used to calculate the surface tension and polarity of polymers or organic solids from contact angle data.
-
-## A Reinterpretation of Organic Liquid-Polytetrafluoroethylene Surface Interactions
-- **Auther**: Kaelble, Uy
-- **Publication**: 1970-01-01
-- **Abstract**: The wettability of polytetrafluoroethylene (PTFE) by organic liquids is reanalyzed in terms of dispersion-polar interactions across the liquid-solid interface. The analysis provides values of γs d = 19.6 dyne/cm, and γS D = 2.0 dyne/cm for the respective dispersion and polar parts of the surface tension γs = 21.6 for PTFE. The definition of a polar contribution to the surface tension of PTFE clarifies detailed aspects of the wettability of this polymer by different homologous liquid series. A modified analytical definition for work of adhesion is developed and applied to this discussion.
-
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Some thermodynamic aspects of polymer adhesion
-- **Auther**: Owens
-- **Publication**: 1970
-- **Abstract**: Recently developed techniques permit the estimation of the surface free energy of polymers and the separation of this free energy into dispersion and hydrogen-bonding components. These techniques have been used to calculate the thermodynamic reversible work of adhesion of a vinylidene chloride copolymer coating to propylene film. The changes in work of adhesion upon immersion of the coated polypropylene in water and surfactant solutions were calculated. When the calculated work of adhesion was negative, spontaneous separation of the coating from the polypropylene occurred upon immersion in all cases. When the calculated work of adhesion was positive, no separation was observed in agreement with theory.
-
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Estimation of the surface free energy of polymers
-- **Auther**: Owens, Wendt
-- **Publication**: 1969
-- **Abstract**: A method for measuring the surface energy of solids and for resolving the surface energy into contributions from dispersion and dipole-hydrogen bonding forces has been developed. It is based on the measurement of contact angles with water and methylene iodide. Good agreement has been obtained with the more laborious γc method. Evidence for a finite value of liquid-solid interfacial tension at zero contact angle is presented. The method is especially applicable to the surface characterization of polymers.
-
-## Contact angle, wettability and adhesion : the kendall award symposium honoring william a. Zisman, los angeles, calif., april 2-3, 1963
-- **Auther**: Symposium, Fowkes, Zisman, of Colloid, Chemistry
-- **Publication**: 1964
-- **Abstract**: 
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## III. An essay on the cohesion of fluids
-- **Auther**: Young
-- **Publication**: 1805-12-31
-- **Abstract**: It has already been asserted, by Mr. Monge and others, that the phenomena of capillary tubes are referable to the cohesive attraction of the superficial particles only of the fluids em­ployed, and that the surfaces must consequently be formed into curves of the nature of lintearias, which are supposed to be the results of a uniform tension of a surface, resisting the pressure of a fluid, either uniform, or varying according to a given law. Segner, who appears to have been the first that maintained a similar opinion, has shown in what manner the principle may be deduced from the doctrine of attraction, but his demonstration is complicated, and not perfectly satisfactory; and in applying the law to the forms of drops, he has neglected to consider the very material effects of the double curvature, which is evidently the cause of the want of a perfect coinci­dence of some of his experiments with his theory. Since the time of Segner, little has been done in investigating accurately and in detail the various consequences of the principle. It will perhaps be most agreeable to the experimental phi­losopher, although less consistent with the strict course of logical argument, to proceed in the first place to the comparison of this theory with the phenomena, and to inquire afterwards for its foundation in the ultimate properties of matter. But it is necessary to premise one observation, which appears to be new, and which is equally consistent with theory and with experiment; that is, that for each combination of a solid and a fluid, there is an appropriate angle of contact between the surfaces of the fluid, exposed to the air, and to the solid. This angle, for glass and water, and in all cases where a solid is perfectly wetted by a fluid, is evanescent: for glass and mer­cury, it is about 140°, in common temperatures, and when the mercury is moderately clean.
-
-## 分子間力と表面力
-- **Auther**: Israelachvili, 大島
-- **Publication**: 2013
-- **Abstract**: 
-
-## 表面物性
-- **Auther**: , 坂本
-- **Publication**: 2012
-- **Abstract**: 
-
-## Multiscale Dynamics of Inhomogeneity-Free Polymer Gels
-- **Auther**: Hiroi, Ohl, Sakai, Shibayama
-- **Publication**: 2014-01-28
-- **Abstract**: For precise understanding of the dynamics of gels, it is necessary to distinguish the effect of inherent cross-linking from accompanying inhomogeneity. This separation is realized by the use of inhomogeneity-free gel such as Tetra-PEG gel. We investigated the dynamics of Tetra-PEG gel by quasi-elastic scattering. Mesoscopic (length scale: ∼100 nm) motion was measured by dynamic light scattering (DLS). In addition to this scale, we used neutron spin echo (NSE) to measure microscopic (length scale: ∼1 nm) motion. From these measurements, it is revealed that the gels with no connectivity/topological inhomogeneities show the transition from Zimm mode to collective diffusion mode in larger length scale, even beyond the q-range of NSE. In addition to this, the absence of spatial inhomogeneities is reflected as disappearance of nondecay component in the intermediate dynamic structure factor. Through the combination analysis of DLS and NSE, the multiscale dynamics of gels is elucidated.
 
