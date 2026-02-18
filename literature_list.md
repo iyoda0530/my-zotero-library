@@ -1,5 +1,20 @@
 # Zotero My Library
 
+## J-Stage - Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## 化粧品研究における分子感性工学の必要性について
+- **Auther**: 中尾
+- **Publication**: 2017
+- **Abstract**: 
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Stimuli-responsive hydrogel dressing for wound healing
 - **Auther**: Zhang, Hu, Wu, Lin, Cai
 - **Publication**: 2025/01/01
@@ -491,20 +506,5 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 ## Inhomogeneities in poly(acrylamide) gels: position-dependent elastic modulus measurements
 - **Auther**: Durmaz, Okay
 - **Publication**: 2001-06-01
-- **Abstract**: 
-
-## Tuning the Range of Polyacrylamide Gel Stiffness for Mechanobiology Applications
-- **Auther**: Denisin, Pruitt
-- **Publication**: 2016-08-31
-- **Abstract**: Adjusting the acrylamide monomer and cross-linker content in polyacrylamide gels controls the hydrogel stiffness, yet the reported elastic modulus for the same formulations varies widely and these discrepancies are frequently attributed to different measurement methods. Few studies exist that examine stiffness trends across monomer and cross-linker concentrations using the same characterization platform. In this work, we use Atomic Force Microscopy and analyze force–distance curves to derive the elastic modulus of polyacrylamide hydrogels. We find that gel elastic modulus increases with increasing cross-link concentration until an inflection point, after which gel stiffness decreases with increasing cross-linking. This behavior arises because of the formation of highly cross-linked clusters, which add inhomogeneity and heterogeneity to the network structure, causing the global network to soften even under high cross-linking conditions. We identify these inflection points for three different total polymer formulations. When we alter gelation kinetics by using a low polymerization temperature, we find that gels are stiffer when polymerized at 4 °C compared to room temperature, indicating a complex relationship between gel structure, elasticity, and network formation. We also investigate how gel stiffness changes during storage over 10 days and find that specific gel formulations undergo significant stiffening (1.55 ± 0.13), which may be explained by differences in gel swelling resulting from initial polymerization parameters. Taken together, our study emphasizes the importance of polyacrylamide formulation, polymerization temperature, gelation time, and storage duration in defining the structural and mechanical properties of the polyacrylamide hydrogels.
-
-## Transition between Phantom and Affine Network Model Observed in Polymer Gels with Controlled Network Structure
-- **Auther**: Akagi, Gong, Chung, Sakai
-- **Publication**: 2013-02-12
-- **Abstract**: The elastic moduli of elastomeric materials are predicted by the aﬃne or phantom or junction aﬃne network models. Although these models are often used, we do not know the requirement conditions for each model or even the validity of each model. The validation of these models is diﬃcult because of the network heterogeneity. In this study, we tried to evaluate these models using Tetra-PEG gel, which has extremely homogeneous network structure. We performed the stretching and tearing tests, and for the ﬁrst time, observed the transition between the phantom and aﬃne network models around the overlapping concentration of prepolymers.
-
-## Polymer physics
-- **Auther**: Rubinstein, Colby
-- **Publication**: 2014
 - **Abstract**: 
 
