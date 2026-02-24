@@ -1,5 +1,35 @@
 # Zotero My Library
 
+## Observation of Heterodyne Mixing in Surface X-Ray Photon Correlation Spectroscopy Experiments
+- **Auther**: Gutt, Ghaderi, Chamard, Madsen, Seydel, Tolan, Sprung, Grübel, Sinha
+- **Publication**: 2003-08-15
+- **Abstract**: We report measurements of propagating capillary waves on a liquid water surface at 𝑇 =5 °C with x-ray photon correlation spectroscopy. The experiment has been performed under grazing incidence conditions with an incoming x-ray beam below the critical angle of total external reflection. In the 𝐪 region investigated the measured intensity-intensity autocorrelation functions of the liquid water surface were found to be heterodyne signals, i.e., a combination of first- and second-order correlation functions 𝑔1⁡(𝜏) and 𝑔2⁡(𝜏).
+
+## APS Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Dispersion relation of capillary waves on ionic liquids: Observation of the fast overdamped mode
+- **Auther**: Hoshino, Ohmasa, Osada, Yao
+- **Publication**: 2008-12-17
+- **Abstract**: We measured the capillary wave spectra on the surface of ionic liquids using dynamic light scattering techniques. Empirical dispersion relations deduced from the time domain analysis clearly reveal the transition from oscillating to overdamped behavior with changing temperature and the wave vector. In particular, not only slow but also fast modes were observed in the overdamped regime. The empirical dispersion relations coincide with the theoretical dispersion relations deduced from the linearized Navier-Stokes equation when experimentally determined density, viscosity, and surface tension are assigned to the latter.
+
+## 受け入れたバージョン
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Observation of constraint surface dynamics of polystyrene thin films by functionalization of a silsesquioxane cage
+- **Auther**: Hoshino, Nojima, Sato, Hirai, Higaki, Fujinami, Murakami, Ogawa, Jinnai, Takahara, Takata
+- **Publication**: 2016-11-22
+- **Abstract**: The surface dynamics of polyhedral oligomeric silsesquioxane (POSS)-functionalized polystyrene (PS-POSS) thin films above the glass transition temperature were studied by grazing-incidence X-ray photon correlation spectroscopy in order to elucidate the effects of POSS at the end of the polystyrene chains. Much slower fluctuations were observed in the surface of PS-POSS thin films than in the polystyrene thin films, despite the negligible difference in their bulk viscosity. Quantitative analysis based on fluctuation-dissipation theorem indicated that there is a high-viscosity layer at the surface of the PS-POSS films, and that the substrate interface originated from POSS segregation.
+
 ## J-Stage - Snapshot
 - **Auther**: 
 - **Publication**: N/A
@@ -477,34 +507,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Pluen, Netti, Jain, Berk
 - **Publication**: 1999-07-01
 - **Abstract**: The diffusion coefficients (D) of different types of macromolecules (proteins, dextrans, polymer beads, and DNA) were measured by fluorescence recovery after photobleaching (FRAP) both in solution and in 2% agarose gels to compare transport properties of these macromolecules. Diffusion measurements were conducted with concentrations low enough to avoid macromolecular interactions. For gel measurements, diffusion data were fitted according to different theories: polymer chains and spherical macromolecules were analyzed separately. As chain length increases, diffusion coefficients of DNA show a clear shift from a Rouse-like behavior (DG ≅N0−0.5) to a reptational behavior (DG ≅N0−2.0). The pore size, a, of a 2% agarose gel cast in a 0.1M PBS solution was estimated. Diffusion coefficients of the proteins and the polymer beads were analyzed with the Ogston model and the effective medium model permitting the estimation of an agarose gel fiber radius and hydraulic permeability of the gels. Not only did flexible macromolecules exhibit greater mobility in the gel than did comparable-size rigid spherical particles, they also proved to be a more useful probe of available space between fibers.
-
-## High-Throughput FRAP Analysis of Solute Diffusion in Hydrogels
-- **Auther**: Richbourg, Peppas
-- **Publication**: 2021-11-23
-- **Abstract**: Increasingly accurate mathematical models have been developed to relate solute and hydrogel properties to solute diffusion coefficients in hydrogels, primarily by comparing solute sizes and hydrogel mesh sizes. Here, we use a standardized, high-throughput method for fluorescence recovery after photobleaching (FRAP) experiments and analysis to characterize the diffusion coefficients of fluorescein, three sizes of FITC-dextran, and three sizes of FITC-conjugated poly(ethylene glycol) (PEG) through 18 structurally varied poly(vinyl alcohol) (PVA) hydrogel formulations. Increasing the hydrogel mesh radii increased the diffusivities of all the tested solutes within the hydrogels. While the diffusivity of FITC-dextrans in hydrogels decreased with increasing solute size, the diffusivity of FITC-PEGs increased with increasing solute size, suggesting that a generalized hydrodynamic radius-based model is not universally applicable for solute diffusion in hydrogels. The high-throughput characterization method for solute diffusion in hydrogels described here facilitates precise hydrogel design for biomedical applications.
-
-## Entanglements of Macromolecules and Their Influence on Rheological and Mechanical Properties of Polymers
-- **Auther**: Pawlak, Krajenta
-- **Publication**: 2024-7-20
-- **Abstract**: Flexible macromolecules easily become entangled with neighboring macromolecules. The resulting network determines many polymer properties, including rheological and mechanical properties. Therefore, a number of experimental and modeling studies were performed to describe the relationship between the degree of entanglement of macromolecules and polymer properties. The introduction presents general information about the entanglements of macromolecule chains, collected on the basis of studies of equilibrium entangled polymers. It is also shown how the density of entanglements can be reduced. The second chapter presents experiments and models leading to the description of the movement of a single macromolecule. The next part of the text discusses how the rheological properties change after partial disentangling of the polymer. The results on the influence of the degree of chain entanglement on mechanical properties are presented.
-
-## Effect of varying crosslinking density on polyacrylamide gels
-- **Auther**: Bansil, and Gupta
-- **Publication**: 1980-10-01
-- **Abstract**: The copolymerization of acrylamide and N, N′-methylene bisacrylamide has been investigated over a wide range of total monomer concentration (T) and with the proportion of the crosslinking monomer (C) varying from 0 to 100%. The threshold value of the total monomer concentration above which gel formation becomes possible decreases as C increases. Gels with high C (>4%) become turbid and eventually opaque. An analogous phase separation is observed in the sol phase, where actual precipitation of a branched polymer takes place. The gelation curve continues into the phase separated region. Raman spectroscopy of gels with different values of C indicates that the opacity is related to the formation of cluster of varying sizes, with varying amounts of the monomers. The spectral data also shows that the BIS molecules may aggregate and that some unreacted vinyl groups of the BIS molecules are incorporated into the polymer network.
-
-## Rheological Monitoring of Polyacrylamide Gelation:  Importance of Cross-Link Density and Temperature
-- **Auther**: Calvet, Wong, Giasson
-- **Publication**: 2004-10-01
-- **Abstract**: Dynamic shear oscillation measurements at small strains are used to characterize the polymerization process in situ and the viscoelastic properties of cross-linked polyacrylamide hydrogels. Hydrogels are synthesized by free-radical redox polymerization of acrylamide (8 wt %) for different concentrations of cross-linker, N,N‘-methylenebis(acrylamide) (BIS), at different temperatures. Both elastic modulus G‘ and viscous modulus G‘‘ are measured in real time during the gelation which takes place directly between parallel rheometer plates. The elastic modulus G‘ remains constant with frequency, G‘(ω) ≈ cte, and is significantly larger than G‘‘(ω), characteristic of a well-developed cross-linked polymer network. Temperature scanning of the elastic modulus shows that G‘(T) is a linear relationship with a proportionality value that depends on the polymerization temperature Tpol. This observation is in agreement with the classical theory of rubberlike elasticity, i.e., G‘ = neRT where ne is the active network links density. The results confirm that the final G‘ and G‘‘ are sensitive to the cross-linker concentration as well as the polymerization temperature. Moreover, G‘ follows a linear progression over a large range of BIS concentration. For a given acrylamide monomer concentration, there exists an optimal bis(acrylamide) cross-linker concentration and an optimal polymerization temperature which give rise to an “ideal” hydrogel, i.e., exhibiting a maximal elasticity.
-
-## Network formation in polyacrylamide gels
-- **Auther**: Nossal
-- **Publication**: 1985-01-01
-- **Abstract**: 
-
-## Inhomogeneities in poly(acrylamide) gels: position-dependent elastic modulus measurements
-- **Auther**: Durmaz, Okay
-- **Publication**: 2001-06-01
-- **Abstract**: 
 
