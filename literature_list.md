@@ -10,10 +10,20 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
-## Effects of Fabrication Conditions on the Bulk and Surface Network Structures of Polyacrylamide Gels
+## Effects of fabrication conditions on the bulk and surface network structures of polyacrylamide gels
 - **Auther**: Yoda, Hiroi, Akagi
-- **Publication**: 2026-03-14
+- **Publication**: 2026-07-20
 - **Abstract**: Hydrogels possess a three-dimensional network structure that retains aqueous solvents, making them suitable for mimicking biological tissues. When hydrogels are used as biomaterials, surface properties play a critical role in their adhesion to biological tissues and in their overall biocompatibility. However, bulk and surface properties are interdependent, which makes controlling surface characteristics while maintaining the desired bulk properties difficult. Understanding the relationship between bulk physicochemical properties and surface characteristics is therefore essential for rational material design. In this study, we investigated the influence of fabrication conditions on both bulk and surface properties of polyacrylamide (PAAM) gels. PAAM gels were prepared with a constant polymer concentration and systematically varied ratios of the cross-linker N,N'-methylenebisacrylamide (Bis). Bulk properties—including elastic modulus, swelling ratio, visible-light transmittance, and dynamic light scattering—were measured, whereas surface characteristics were assessed via contact angle measurements. Bulk and surface structures were further examined using scanning electron microscopy. The results showed that the effective network density increased with increasing Bis ratio when its molar concentration was below a threshold. By contrast, excess Bis led to increased network inhomogeneity. Contact angle measurements revealed a minimum at the Bis ratio corresponding to the onset of substantial bulk inhomogeneity, indicating that polymer chain elongation near the surface strongly influences surface wettability. In addition, when the bulk network exhibited substantial inhomogeneity, discrepancies arose between the bulk and surface properties, with surface characteristics deviating from macroscopic bulk properties such as the elastic modulus and swelling ratio. These findings provide new insight into the relationship between bulk and surface properties in inhomogeneous hydrogels and suggest the possibility of synthesizing hydrogels with tailored surface characteristics without additional surface modification.
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
 
 ## Sponge-like Heterogeneous Gels: Hierarchical Structures in Poly(N-isopropylacrylamide) Chemical Gels As Observed by Combined Scattering and Confocal Microscopy Method
 - **Auther**: Hirokawa, Okamoto, Kimishima, Jinnai, Koizumi, Aizawa, Hashimoto
@@ -497,14 +507,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Publication**: 2023-08-02
 - **Abstract**: Abstract
             The equation of state (EOS) information of neutron stars (NSs) can be obtained by analyzing the post-merger phases of gravitational waves resulting from the coalescence of NS binaries. In a previous study, we proposed a method to discriminate the EOS using the Hilbert–Huang transform (HHT). The HHT comprises empirical mode decomposition (EMD) and Hilbert spectrum analysis. An essential aspect of the EMD involves the generation of envelopes through interpolating extrema values. The original EMD (used in the previous study) utilizes cubic spline (CS) interpolation. However, the CS occasionally produces pseudo oscillations and overshoots that may decrease the performance of the EMD. In this study, we propose an extended version of the HHT by substituting Akima spline interpolation for the CS. We compared the ability of the original HHT (based on the CS) and the proposed HHT (based on the Akima spline) to discriminate the EOS. The results reveal that the proposed HHT yields a more precise analysis than the original HHT. With the proposed HHT, the number of events for discriminating the EOS is enhanced by a factor of 11.4.
-
-## Inner structure and dynamics of microgels with low and medium crosslinker content prepared via surfactant-free precipitation polymerization and continuous monomer feeding approach
-- **Auther**: Kyrey, Witte, Feoktystov, Pipich, Wu, Pasini, Radulescu, Witt, Kruteva, Klitzing, Wellert, Holderer
-- **Publication**: 2019-08-14
-- **Abstract**: The preparation of poly(N-isopropylacrylamide) microgels via classical precipitation polymerization (batch method) and a continuous monomer feeding approach (feeding method) leads to different internal crosslinker distributions, i.e., from core–shell-like to a more homogeneous one. The internal structure and dynamics of these microgels with low and medium crosslinker concentrations are studied with dynamic light scattering and small-angle neutron scattering in a wide q-range below and above the volume phase transition temperature. The influence of the preparation method, and crosslinker and initiator concentration on the internal structure of the microgels is investigated. In contrast to the classical conception where polymer microgels possess a core–shell structure with the averaged internal polymer density distribution within the core part, a detailed view of the internal inhomogeneities of the PNIPAM microgels and the presence of internal domains even above the volume phase transition temperature, when polymer microgels are in the deswollen state, are presented. The correlation between initiator concentration and the size of internal domains that appear inside the microgel with temperature increase is demonstrated. Moreover, the influence of internal inhomogeneities on the dynamics of the batch- and feeding-microgels studied with neutron spin-echo spectroscopy is reported.
-
-## 3D mapping of nanoscale crosslink heterogeneities in microgels
-- **Auther**: Karanastasis, Zhang, Kenath, Lessard, Bewersdorf, Ullal
-- **Publication**: 2018-10-29
-- **Abstract**: The majority of swollen polymer networks exhibit spatial variations in crosslink density. These spatial heterogeneities are particularly important in colloidal gel particles, or microgels, where they manifest themselves on the nanoscale and impact mechanical and transport properties. Despite their importance, the real space nanostructure of these heterogeneities at the individual particle level has remained elusive. Using state of the art super-resolution microscopy known as Whole cell 4Pi Single Molecule Switching Nanoscopy (W-4PiSMSN) we demonstrate 3D nanoscale mapping of spatial crosslink heterogeneities in a model system of poly(N-isopropylacrylamide) colloidal gel particles containing a novel fluorophore tagged crosslinker. We reveal the presence of higher crosslink density clusters embedded in a lower crosslink density matrix within the core of individual microgel particles, a phenomenon that has been predicted, but never been observed before in real space. The morphology of the clusters provides insight into the kinetics of microgel formation. This study also provides proof-of-concept 3D super-resolution imaging of spatial heterogeneities in bulk hydrogels.
 
