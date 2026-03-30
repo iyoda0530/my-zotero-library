@@ -1,5 +1,45 @@
 # Zotero My Library
 
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Multiresponsive Core–Shell Microgels Functionalized by Nitrilotriacetic Acid
+- **Auther**: Sommerfeld, Malyaran, Neuss, Demco, Pich
+- **Publication**: 2024-02-12
+- **Abstract**: Stimuli-responsive microgels with ionizable functional groups offer versatile applications, e.g., by the uptake of oppositely charged metal ions or guest molecules such as drugs, dyes, or proteins. Furthermore, the incorporation of carboxylic groups enhances mucoadhesive properties, crucial for various drug delivery applications. In this work, we successfully synthesized poly{N-vinylcaprolactam-2,2′-[(5-acrylamido-1-carboxypentyl)azanediyl]diacetic acid} [p(VCL/NTAaa)] microgels containing varying amounts of nitrilotriacetic acid (NTA) using precipitation polymerization. We performed fundamental characterization by infrared (IR) spectroscopy and dynamic and electrophoretic light scattering. Despite their potential multiresponsiveness, prior studies on NTA-functionalized microgels lack in-depth analysis of their stimuli-responsive behavior. This work addresses this gap by assessing the microgel responsiveness to temperature, ionic strength, and pH. Morphological investigations were performed via NMR relaxometry, nanoscale imaging (AFM and SEM), and reaction calorimetry. Finally, we explored the potential application of the microgels by conducting cytocompatibility experiments and demonstrating the immobilization of the model protein cytochrome c in the microgels.
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Injectable Microgel-Hydrogel Composites for Prolonged Small-Molecule Drug Delivery
+- **Auther**: Sivakumaran, Maitland, Hoare
+- **Publication**: 2011-11-14
+- **Abstract**: The design and application of soft nanocomposite injectable hydrogels containing entrapped microgels for small-molecule drug delivery is demonstrated. Copolymer microgels based on N-isopropylacrylamide and acrylic acid were synthesized that exhibited both ionic and hydrophobic affinity for binding to bupivacaine, a cationic local anesthetic used as a model drug. Microgels were subsequently immobilized within an in situ-gelling hydrogel network cross-linked via hydrazide-aldehyde chemistry to generate hydrogel–microgel soft nanocomposites. Drug release could be sustained for up to 60 days from these nanocomposite hydrogels, significantly longer than that achievable using the constituent hydrogel or microgels alone (<1 week). Drug release kinetics could be readily tuned by varying the affinity of the microgel and hydrogel phases for drug–polymer interactions and the network density of the hydrogel phase.
+
+## Microgel-Reinforced Hydrogel Films with High Mechanical Strength and Their Visible Mesoscale Fracture Structure
+- **Auther**: Hu, Hiwatashi, Kurokawa, Liang, Wu, Gong
+- **Publication**: 2011-10-11
+- **Abstract**: The poor mechanical properties remain the largest barrier to traditional synthetic hydrogels for extensive practical applications, such as tissue scaffolds. In this work, we have synthesized the hydrogel films in the presence of microgel precursors of various chemical species with different charges. The hydrogels fabricated have a novel two-phase composite structure, where the continuous phase is a loosely cross-linked polyacrylamide (PAAm) matrix and the disperse phase is virtually double-network (DN) microgels. Named as microgel-reinforced (MR) hydrogels, they exhibited dramatic enhancement in mechanical strength and toughness, in comparison to the hydrogels with no microgels. MR hydrogels showed the comparable mechanical properties with the conventional bicontinuous DN hydrogels. By visualizing the embedded microgels before, during, and after the elongation, mesoscale fractures of the microgels phase were confirmed, which should effectively blunt the crack and enhance the fracture propagation resistance. Therefore, we conclude that the essential reinforcement principle of MR gels roots in the sacrificial bonds effect contributed by the microgels. This work provides a novel universal pathway to synthesize hydrogel thin films with high strength and toughness from various microgels and may open a new avenue for the application of hydrogels in various fields, such as fast responsive actuators, fuel cell films, wound dressings, etc.
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Microgel particles as model colloids: theory, properties and applications
+- **Auther**: Saunders, Vincent
+- **Publication**: 1999-02-28
+- **Abstract**: This review presents an overview of the literature concerning microgel particles with emphasis on work performed during the past 5 years. Microgel particles are cross-linked latex particles that are swollen in a good solvent. The particles are conveniently prepared by surfactant-free emulsion polymerisation (SFEP) and may be viewed as sterically stabilised particles without a core. The narrow particle size distribution combined with the inherent steric stabilisation of particles prepared by SFEP makes them ideal model systems for the study of solution-dependent phenomena (e.g. osmotic de-swelling). The poly(NIPAM) (NIPAM=N-isopropylacrylamide) microgel system is considered in detail in terms of swelling, rheological, small-angle neutron scattering (SANS) and kinetic data. The review concludes with a discussion of the internal structure for microgel particles and consideration of areas for further research.
+
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -466,45 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Yamamoto, Hara, Kobayashi, Yuki, Sakuma
 - **Publication**: 2024-03-01
 - **Abstract**: Preemptively estimating tissue damage is crucial for a safe surgical procedure. We previously investigated the possibility of estimating the fracture energies of biological tissues based on their elasticities. However, the reason behind the presence of these correlations is poorly understood. In this study, we investigate the effect of a tissue’s histology on the correlation between the fracture energy and elasticity. We hypothesize that two tissues with similar fibrous structure will show a similar correlation between the fracture energy and elasticity.
-
-## Nonlinear stress relaxation and failure of time‒strain separability of aqueous poly(ethylene oxide)/silica nanoparticle mixtures
-- **Auther**: Kusakabe, Katashima, Sakuma, Akagi
-- **Publication**: 2025-02
-- **Abstract**: The stress relaxation test is an effective and facile method for clarifying the nonlinear rheological behavior of soft materials. A thorough analysis of the stress relaxation behavior offers valuable insights into the molecular dynamics. However, the stress relaxation behavior and underlying molecular dynamics of polymer/particle mixtures remain poorly understood, despite their widespread industrial application. In this study, we systematically investigated the nonlinear stress relaxation behavior of a simple-structured poly(ethylene oxide) (PEO)/silica nanoparticle aqueous mixture. Time‒strain separability was observed at high polymer concentrations, with the stress relaxation attributable to the relaxation of the polymer matrix. At lower polymer concentrations, the time‒strain separability was no longer valid, and changes in absorbance over time suggested that stress relaxation originated from the relaxation of the aggregated structures. A transition from time‒strain separability to inseparability was observed when the estimated number of PEO molecules forming interparticle bridges was less than 1; this suggests that structural changes during shear loading occur only when new interparticle polymer bridges are formed, leading to the development of clustered structures. These results provide a basic understanding of the relationship between deformation and relaxation, which is crucial for systematically understanding the nonlinear rheology of polymeric materials.
-
-## Adsorption suppression and viscosity transition in semidilute PEO/silica nanoparticle mixtures under the protein limit
-- **Auther**: Kusakabe, Li, Mayumi, Katashima, Sakuma, Akagi
-- **Publication**: 2025-08-15
-- **Abstract**: Understanding the interplay between polymer adsorption and colloidal interactions is essential for designing advanced materials with tailored properties. This study investigates the adsorption-driven aggregation and rheological transitions in semidilute mixtures of silica nanoparticles and high-molecular-weight poly(ethylene oxide) (PEO) in the protein limit, where the polymer’s size exceeds that of the particles. By systematically varying the ratio of the particle hydrodynamic size to the polymer’s hydrodynamic screening length (Rh,silica/ξh,PEO), distinct regimes of adsorption suppression, aggregation onset, and saturation were identified. Below Rh,silica/ξh,PEO = 1, adsorption was suppressed due to the entropic penalty of polymer distortion, resulting in negligible viscosity changes and stable particle dispersions. Near Rh,silica/ξh,PEO = 1, the adsorption energy overcame the entropy loss, triggering rapid aggregation and a sharp increase in viscosity, accompanied by the emergence of a slow relaxation mode in dynamic light scattering. At higher ratios (Rh,silica/ξh,PEO > 2), adsorption saturated, forming dense PEO-silica aggregates, as confirmed by small-angle neutron scattering. These findings challenge conventional theories of polymer adsorption and emphasize the critical role of polymer conformational entropy and adsorption energy balance. This study provides a framework for understanding polymer-mediated colloidal interactions in semidilute regimes, with implications for the rational design of polymer-colloid composites in materials science, biophysics, and industrial formulations.
-
-## A novel reaction force-fluorescence measurement system for evaluating pancreatic juice leakage from an excised swine pancreas during distal pancreatectomy
-- **Auther**: Kobayashi, Tsuchiya, Akagi, Tomii, Nakagawa, Inai, Muragaki, Asano, Kim
-- **Publication**: 2020
-- **Abstract**: Background Resection using a stapler is a popular approach to distal pancreatectomy. However, the resulting leakage of pancreatic juice represents a serious problem. We have developed a force-fluorescence measurement as a first step towards the quantitative evaluation of pancreatic leakage due to tissue tearing under compression. Methods The system comprises a testing machine with an indenter, similar in size to a stapler, which controls compression speed and measures reaction force, and a fluorescence measurement system to measure pancreatic juice leakage. Pancreatic juice leakage is measured as the maximum value of the increasing rate of fluorescence intensity (max value). Ten excised swine pancreases were compressed at a speed of 500, 100, and 10 mm/min until their thicknesses became 2 mm. Results A strong positive correlation (0.804) was observed between the increase in max value before and after compression and the amount of reaction force drop due to tissue destruction. No pancreatic juice leakage was observed when compressed slowly (10 mm/min). Conclusions We have successfully developed a novel force-fluorescence measurement system that can detect and quantify pancreatic juice leakage caused by tissue tearing. This system can determine the optimal compression conditions for preventing pancreatic juice leakage.
-
-## Structural inhomogeneities in the range 2.5-2500 .ANG. in polyacrylamide gels
-- **Auther**: Hecht, Duplessix, Geissler
-- **Publication**: 1985-11-01
-- **Abstract**: 
-
-## Scattering perspectives on nanostructural inhomogeneity in polymer network gels
-- **Auther**: Seiffert
-- **Publication**: 2017-03-01
-- **Abstract**: Scattering methods based on spatial and temporal contrast fluctuations in polymer-network gels, which originate from polymer-segmental density fluctuations, reveal rich insight into different types and levels of nanostructural inhomogeneity in these soft materials. Complementary contrasting as provided by light, neutron, and X-ray scattering allows such information to be obtained on nano- to micrometer length scales. On top of that, complementary use of static and dynamic scattering methods allows the interplay and effect of these inhomogeneities to be unraveled. This article interrelates a multitude of studies on the application of scattering techniques for analytical assessment of structural inhomogeneity in polymer-network gels conducted since the 1970s.
-
-## Small-Angle Neutron-Scattering Study on Preparation Temperature Dependence of Thermosensitive Gels
-- **Auther**: Takata, Norisuye, Shibayama
-- **Publication**: 2002-06-01
-- **Abstract**: The microscopic structure of temperature-sensitive polymer gels consisting of poly(N-isopropylacrylamide) (PNIPA) has been investigated in terms of small-angle neutron scattering. The spatial inhomogeneities, characteristic of polymer gels, in the PNIPA gels were evaluated as a function of the gel preparation temperature, Tprep, as well as the cross-link concentration, CX. It was found that the spatial inhomogeneities increase with increasing Tprep or CX. The effects of Tprep and CX on the gel structure were successfully separated by a quantitative analysis of the structure factor with the Panyukov−Rabin theory. The effective degree of polymerization between cross-links, N, exhibited the opposite dependence with respect to Tprep and CX. N was found to decrease with increasing CX, while it increased with increasing Tprep. The temperature dependence of the Flory interaction parameter and the presence of the cross-link saturation threshold are also addressed with a discussion of the physical implication of these parameters.
-
-## Structural Characterization of Model Gels under Preparation Conditions and at Swelling Equilibrium
-- **Auther**: Scholz, Lang
-- **Publication**: 2024-03-12
-- **Abstract**: We use large-scale computer simulations of star polymer gels to analyze which structural features can be assessed from scattering data of polymer networks. We separate static and dynamic contributions of the scattering intensity I(q), allowing us to determine the correlation length ξ of the corresponding polymer solution and the static correlation length Ξ of network inhomogeneities, combining several properties of the denser cross-link blobs. The dynamic contribution Idyn is related to the correlation length ξ, incorporating parts of the form factor of the star polymer for polymer volume fractions around the overlap condition. At swelling equilibrium, the cross-link motion is confined within a volume comparable to the size of the somewhat denser cross-link blob. Since the cross-link blob size scales ∝ ξ, we measure Ξ ∝ ξ for our nearly ideal model networks. The motion of the cross-links in a harmonic confining potential implies a Gaussian shape of the static density inhomogeneities, a dependence confirmed by the static contribution to the scattering data of all samples in our study. At swelling equilibrium, dynamic scattering Idyn(0) from thermal fluctuations is almost identical to the scattering intensity Istat(0) from static inhomogeneities. At preparation conditions, Istat(0)/Idyn(0) decays with a power law following the polymer fraction of the cross-link blobs. Here, the larger volume available for cross-link motion stands out for increasing polymer volume fraction ϕ, reducing the concentration dependence of Ξ.
-
-## Precise analysis of gravitational waves from binary neutron star coalescence using Hilbert–Huang transform based on Akima spline interpolation
-- **Auther**: Yoda, Oohara, Takahashi, Sakai
-- **Publication**: 2023-08-02
-- **Abstract**: Abstract
-            The equation of state (EOS) information of neutron stars (NSs) can be obtained by analyzing the post-merger phases of gravitational waves resulting from the coalescence of NS binaries. In a previous study, we proposed a method to discriminate the EOS using the Hilbert–Huang transform (HHT). The HHT comprises empirical mode decomposition (EMD) and Hilbert spectrum analysis. An essential aspect of the EMD involves the generation of envelopes through interpolating extrema values. The original EMD (used in the previous study) utilizes cubic spline (CS) interpolation. However, the CS occasionally produces pseudo oscillations and overshoots that may decrease the performance of the EMD. In this study, we propose an extended version of the HHT by substituting Akima spline interpolation for the CS. We compared the ability of the original HHT (based on the CS) and the proposed HHT (based on the Akima spline) to discriminate the EOS. The results reveal that the proposed HHT yields a more precise analysis than the original HHT. With the proposed HHT, the number of events for discriminating the EOS is enhanced by a factor of 11.4.
 
