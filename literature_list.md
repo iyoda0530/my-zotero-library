@@ -1,5 +1,20 @@
 # Zotero My Library
 
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## The properties of polyampholyte microgel particles prepared by microemulsion polymerization
+- **Auther**: Neyret, Vincent
+- **Publication**: 1997-01-01
+- **Abstract**: Polyampholytemicrogels have been synthesized by copolymerizing the anionic monomer sodium 2-acrylamido-2-methylpropanesulfonate (NaAMPS), the cationic monomer (2-(methacryloyloxy)ethyl)trimethylammonium chloride (MADQUAT), and a crosslinking monomer N,N′-methylenebisacrylamide (BA), using an inverse microemulsion route. The swelling properties of so-called ‘balanced’ microgel particles (i.e. containing the same number of positive and negative monomers in the initial mixture), but containing variable amounts of the crosslinking monomer, have been investigated as a function of ionic strength using photon correlation spectroscopy. The microgel particles flocculate below a certain electrolyte concentration. Above this concentration they are stable and the particle size appears to be insensitive to both ionic strength and the crosslinker concentration in the monomer feed. The structure of the microgel particles in pure water has been investigated using transmission electron microscopy. The samples consist of both aggregates and isolated particles. The isolated particles are somewhat ellipsoidal in the collapsed state. In order to monitor the ‘surface charge’ of the particles, under various conditions, electrophoretic mobility measurements have been performed. The swelling behaviour of ‘unbalanced’ 20/80 [anionic/cationic] polyampholyte microgel particles has been examined. Unexpectedly, these microgel particles displayed only a very small decrease in size with increasing electrolyte concentration.
+
 ## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -491,19 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Itagaki, Oda, Hirata, Nguyen, Kawaguchi, Matsuno, Tanaka
 - **Publication**: 2017-12-19
 - **Abstract**: Poly(vinyl ether), with short oxyethylene side chains which possess a simple and relatively polar structure, should be a unique candidate for a bioinert material thanks to its solubility in water. On the basis of living cationic copolymerization and subsequent ultraviolet light irradiation, thin films of poly(2-methoxyethyl vinyl ether) with different cross-linking densities were prepared on solid substrates. The films were thickened in water, and the extent was dependent on the cross-linking density. Although the surface chemistry and aggregation states were almost identical to one another, the stiffness, or the softness, of the outermost region in the film was strongly dependent on the cross-linking density. That is, the interface between polymer and water became thicker, or more diffused, with decreasing cross-linking density. The blood compatibility based on the platelet adhesion on to the hydrogel films was better for a more diffused interface.
-
-## Gel Dynamics
-- **Auther**: Doi
-- **Publication**: 2009-05-15
-- **Abstract**: Continuum mechanical model is proposed for dynamical processes in gels that involve coupling between the elastic deformation and solvent permeation. Basic equations are derived by two methods, by a physical argument, and by a variational principle. The model is then applied to discuss the swelling of gels, in which solvent permeation causes deformation, and the squeezing of gels, in which mechanical force induce solvent permeation. The model is also applied to the dynamics of the volume transition of gels. It is shown that the elasticity of gels creates various unusual features in the phase transition dynamics.
-
-## Tissue damage force estimation in porcine small intestine from its elasticity
-- **Auther**: Yamamoto, Hara, Kobayashi, Akagi, Sakuma
-- **Publication**: 2023-03-01
-- **Abstract**: Post-surgical complications are correlated to the surgeon’s technical skill level. Thus, efforts are being put in finding ways to improve the surgeon’s technical skills, such as not causing unwanted damage to tissues during surgery. In this study, we aim to investigate the possibility of estimating biological tissue damage, in view of preventing unwanted damage during surgery.
-
-## Tissue histology on the correlation between fracture energy and elasticity
-- **Auther**: Yamamoto, Hara, Kobayashi, Yuki, Sakuma
-- **Publication**: 2024-03-01
-- **Abstract**: Preemptively estimating tissue damage is crucial for a safe surgical procedure. We previously investigated the possibility of estimating the fracture energies of biological tissues based on their elasticities. However, the reason behind the presence of these correlations is poorly understood. In this study, we investigate the effect of a tissue’s histology on the correlation between the fracture energy and elasticity. We hypothesize that two tissues with similar fibrous structure will show a similar correlation between the fracture energy and elasticity.
 
