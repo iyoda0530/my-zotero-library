@@ -10,6 +10,16 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## The properties of polyampholyte microgel particles prepared by microemulsion polymerization
 - **Auther**: Neyret, Vincent
 - **Publication**: 1997-01-01
@@ -496,14 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Kokkorogianni, Kontoes-Georgoudakis, Athanasopoulou, Polizos, Pitsikalis
 - **Publication**: 2021/1
 - **Abstract**: The synthesis of statistical copolymers of N-vinylpyrrolidone (NVP) with isobornyl methacrylate (IBMA) was conducted by free radical and reversible addition-fragmentation chain transfer (RAFT) polymerization. The reactivity ratios were estimated using the Finemann-Ross, inverted Fineman-Ross, Kelen-Tüdos, extended Kelen-Tüdos and Barson-Fenn graphical methods, along with the computer program COPOINT, modified to both the terminal and the penultimate models. According to COPOINT the reactivity ratios were found to be equal to 0.292 for NVP and 2.673 for IBMA for conventional radical polymerization, whereas for RAFT polymerization and for the penultimate model the following reactivity ratios were obtained: r11 = 4.466, r22 = 0, r21 = 14.830, and r12 = 0 (1 stands for NVP and 2 for IBMA). In all cases, the NVP reactivity ratio was significantly lower than that of IBMA. Structural parameters of the copolymers were obtained by calculating the dyad sequence fractions and the mean sequence length. The thermal properties of the copolymers were studied by differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), and differential thermogravimetry (DTG). The results were compared with those of the respective homopolymers.
-
-## Surface Effect on Frictional Properties for Thin Hydrogel Films of Poly(vinyl ether)
-- **Auther**: Itagaki, Kawaguchi, Oda, Nemoto, Yamada, Yamaguchi, Tanaka
-- **Publication**: 2019-12-24
-- **Abstract**: Frictional properties play a key role in the performance of hydrogels in applications such as soft contact lenses, cell sheets, artificial articular cartilage, etc. Here we characterize the swollen state and frictional properties of thin hydrogel films composed of poly(2-methoxyethyl vinyl ether) on a nanometer scale using neutron reflectivity (NR) in conjunction with lateral force microscopy, leading to the discussion about the extent to which surface chains impact the frictional properties of gels. NR measurement revealed that the density profile for the hydrogel films in the interfacial region with water along the direction normal to the interface was well described by a parabolic function, which was generally used for swollen polymer brushes in a liquid. Lateral, or frictional, force (FL) first increased with increasing normal force (FN) and then reached a region where the dependence of FL on FN was extremely subtle. That is, there exist two regimes, I and II, for the relationship between FN and FL. The thickness of the interfacial layer composed of dangling chains, which should behave like brush chains, as determined by NR measurement, was in good accordance with the depth at which the regime transited from region I to II. The frictional properties of the thin hydrogel films could be better understood by considering the two contributions from the interfacial layer and the internal bulk region.
-
-## Surface Characterization and Platelet Adhesion on Thin Hydrogel Films of Poly(vinyl ether)
-- **Auther**: Itagaki, Oda, Hirata, Nguyen, Kawaguchi, Matsuno, Tanaka
-- **Publication**: 2017-12-19
-- **Abstract**: Poly(vinyl ether), with short oxyethylene side chains which possess a simple and relatively polar structure, should be a unique candidate for a bioinert material thanks to its solubility in water. On the basis of living cationic copolymerization and subsequent ultraviolet light irradiation, thin films of poly(2-methoxyethyl vinyl ether) with different cross-linking densities were prepared on solid substrates. The films were thickened in water, and the extent was dependent on the cross-linking density. Although the surface chemistry and aggregation states were almost identical to one another, the stiffness, or the softness, of the outermost region in the film was strongly dependent on the cross-linking density. That is, the interface between polymer and water became thicker, or more diffused, with decreasing cross-linking density. The blood compatibility based on the platelet adhesion on to the hydrogel films was better for a more diffused interface.
 
