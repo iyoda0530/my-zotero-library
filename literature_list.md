@@ -130,15 +130,15 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
-## 化粧品研究における分子感性工学の必要性について
-- **Auther**: 中尾
-- **Publication**: 2017
-- **Abstract**: 
-
 ## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
+
+## 化粧品研究における分子感性工学の必要性について
+- **Auther**: 中尾
+- **Publication**: 2017
+- **Abstract**: 
 
 ## Stimuli-responsive hydrogel dressing for wound healing
 - **Auther**: Zhang, Hu, Wu, Lin, Cai
