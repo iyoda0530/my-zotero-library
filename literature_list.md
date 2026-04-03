@@ -1,5 +1,45 @@
 # Zotero My Library
 
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Gel architectures and their complexity
+- **Auther**: Richtering, Saunders
+- **Publication**: 2014-05-08
+- **Abstract**: Gels have made the transition from brittle materials with few potential applications to high performance systems with mechanical properties approaching that of rubber. They have a wide variety of structures and provide the opportunity to tailor these structures to achieve well-controlled properties over a range of length scales. In this review we consider and compare the structures and properties of a range of gels that have been studied in recent years. In comparing these gels we highlight the importance of key structural parameters in defining gel mechanical properties. It is hoped that this article will provide authors who discover new gels a resource that will easily enable them to determine the differences of their new gels to existing gels.
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Hydrogel machines
+- **Auther**: Liu, Liu, Lin, Zhao
+- **Publication**: 2020-06-01
+- **Abstract**: As polymer networks infiltrated with water, hydrogels constitute the major components of the human body; and hydrogels have been widely used in applications that closely interact with biological organisms, such as tissue engineering, drug delivery, and biological research. More recently, owing to their superior softness, wetness, responsiveness, biocompatibility, and bioactivity, hydrogels are being intensively investigated for versatile functions in devices and machines including sensors, actuators, coatings, optics, electronics, and water harvesters. A nascent field named hydrogel machines rapidly evolves, exploiting hydrogels as key components for devices and machines. While there are reviews on individual categories of hydrogel machines in literature, a comprehensive discussion on various categories of hydrogel machines that systematically correlate hydrogels’ properties and machines’ functions is still missing in the field. This review is aimed to provide such a panoramic overview. We first classify various hydrogel machines into a number of categories according to their applications. For each category, we discuss (i) the working principles of the hydrogel machines, (ii) the specific properties of hydrogels that enable the key functions of the machines, and (iii) challenges faced by hydrogel machines and recent developments to address them. The field of hydrogel machines will not only translate fundamental understanding of hydrogels into new applications, but also shift the paradigm in machine design by integrating hydrogels that can potentially minimize physical and physiological mismatches with biological organisms.
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Programmable hydrogels
+- **Auther**: Wang
+- **Publication**: 2018-09-01
+- **Abstract**: Programmable hydrogels are defined as hydrogels that are able to change their properties and functions periodically, reversibly and/or sequentially on demand. They are different from those responsive hydrogels whose changes are passive or cannot be stopped or reversed once started and vice versa. The purpose of this review is to summarize major progress in developing programmable hydrogels from the viewpoints of principles, functions and biomedical applications. The principles are first introduced in three categories including biological, chemical and physical stimulation. With the stimulation, programmable hydrogels can undergo functional changes in dimension, mechanical support, cell attachment and molecular sequestration, which are introduced in the middle of this review. The last section is focused on the introduction and discussion of four biomedical applications including mechanistic studies in mechanobiology, tissue engineering, cell separation and protein delivery.
+
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -466,44 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: 大塚, 片岡
 - **Publication**: 2003
 - **Abstract**: 
-
-## Spectrum of light scattered from a viscoelastic gel
-- **Auther**: Tanaka, Hocker, Benedek
-- **Publication**: 1973-11-01
-- **Abstract**: We report measurements of the spectrum of light scattered from thermally excited displacement fluctuations in polyacrylamide gels. These measurements have been carried out on the polarized scattered light as a function of scattering angle and temperature for 5% and 2.5% polyacrylamide gels using the methods of optical mixing spectroscopy. We also present a theory for the amplitude and time dependence of the thermally excited longitudinal and transverse displacements of the gel fiber network. These displacements are responsible, respectively, for the polarized and depolarized scattered light. The correlation function for the displacements having wave vector q is predicted for these gels to have the form of an exponential decay: exp(− Γt). The decay rate is given by Γ = Glq2/f or Gtq2/f, where f is the frictional force per unit volume on the fiber network as it moves with unit velocity relative to the gel liquid. Gl is the longitudinal compressional modulus for longitudinal displacements and Gt is the shear modulus for transverse displacements of the fiber network. We have measured, using macroscopic methods, the friction factor f, and the elastic moduli Gl, Gt and compared the numerical predictions of the theory with the experimental measurements of the correlation function of the scattered light intensity. The theory is quite successful in predicting the size and q dependence of the decay rate of the time correlation function of the scattered light. Conversely, these experiments demonstrate that the correlation function of the light scattered from thermal fluctuations of the gel fiber network provides a detailed quantitative characterization of the viscoelastic properties of gels.
-
-## A simple equation for description of solute release I. Fickian and non-fickian release from non-swellable devices in the form of slabs, spheres, cylinders or discs
-- **Auther**: Ritger, Peppas
-- **Publication**: 1987-06-01
-- **Abstract**: The simple exponential relation Mt/M∞ = ktn is introduced to describe the general solute release behavior of controlled release polymeric devices, where Mt/M∞ is the fractional solute release, t is the release time, k is a constant, and n is the diffusional exponent characteristic of the release mechanism. It is shown that this equation can adequately describe the release of drugs or other solutes from slabs, spheres, cylinders and discs (tablets), regardless of the release mechanism. It is shown that in cases of pure Fickian release the exponent n has the limiting values of 0.50, 0.45 and 0.43 for release from slabs, cylinders and spheres, respectively. For tablets, and depending on the aspect ratio, i.e., the ratio of diameter to thickness, the Fickian diffusion mechanism is described by 0.43<n< 0.50. For drug release from spherical polymer particles of a wide distribution, the value of the exponent n for Fickian diffusion depends on the width of the distribution.
-
-## The mathematics of diffusion
-- **Auther**: Crank
-- **Publication**: 1976
-- **Abstract**: 
-
-## Dynamically Swelling Hydrogel in Controlled Release Application
-- **Auther**: Peppas, Korsmeyer
-- **Publication**: 1986-01-01
-- **Abstract**: The physical properties of hydrogels make them attractive for controlled release applications. Their biocompatibility allows them to be considered for medical or pharmaceutical applications and their hydrophilicity can impart desirable release characteristics to controlled and sustained release formulation. This chapter is concerned primarily with materials which are in a dry or glassy state before being placed at the release site, whether this site is the buccal, gastric, nasal, or intestinal area, or a subdermal location. This allows the designer to take advantage of the swelling properties of the material and to control the rate of active release.
-
-## Hydrogels as mucoadhesive and bioadhesive materials: a review
-- **Auther**: Peppas, Sahlin
-- **Publication**: 1/1996
-- **Abstract**: 
-
-## Approach to Ideal Network Formation in Free-Radical Crosslinking Copolymerization of Benzyl Acrylate with 1,6-Hexanediol Diacrylate
-- **Auther**: Matsumoto, Taniguchi
-- **Publication**: 1999-09
-- **Abstract**: 
-
-## Ideal crosslinked-polymers and their characterization in free-radical monovinyl-divinyl copolymerizations
-- **Auther**: Matsumoto, Okamoto, Okuno, Aota
-- **Publication**: 1996
-- **Abstract**: The critical conditions in which the classical Flory-Stockmayer gelation theory (F-S theory) is applicable to monovinyl-divinyl copolymerizations were pursued in detail. The resulting prepolymers or precursors of ideal crosslinked-polymers were characterized as standard polymers for the discussion of network formation in free-radical monovinyl-divinyl copolymerizations. Methyl methacrylate was copolymerized with a small amount of ethylene dimethacrylate, butylene dimethacrylate or nonapropyleneglycol dimethacrylate in the presence of lauryl mercaptan, a chain transfer agent to reduce the occurrence of a thermodynamic excluded volume effect and intramolecular crosslinking as the primary and secondary factors, respectively, for the greatly delayed gelation in the free-radical monovinyl-divinyl copolymerizations and, moreover, to keep the primary chain length constant by inhibiting a gel effect. The ratio of the actual gel point to the theoretical one reached 1.1, supporting the validity of F-S theory. The resulting prepolymers were subjected to SEC-MALLS analysis to determine the molecular weights, the molecular-weight distributions and the radii of gyration; the correlations of molecular weight vs. elution volume and radius of gyration vs. molecular weight were useful for the characterization of the precursors of ideal network-polymers.
-
-## Statistical Copolymers of N-Vinylpyrrolidone and Isobornyl Methacrylate via Free Radical and RAFT Polymerization: Monomer Reactivity Ratios, Thermal Properties, and Kinetics of Thermal Decomposition
-- **Auther**: Kokkorogianni, Kontoes-Georgoudakis, Athanasopoulou, Polizos, Pitsikalis
-- **Publication**: 2021/1
-- **Abstract**: The synthesis of statistical copolymers of N-vinylpyrrolidone (NVP) with isobornyl methacrylate (IBMA) was conducted by free radical and reversible addition-fragmentation chain transfer (RAFT) polymerization. The reactivity ratios were estimated using the Finemann-Ross, inverted Fineman-Ross, Kelen-Tüdos, extended Kelen-Tüdos and Barson-Fenn graphical methods, along with the computer program COPOINT, modified to both the terminal and the penultimate models. According to COPOINT the reactivity ratios were found to be equal to 0.292 for NVP and 2.673 for IBMA for conventional radical polymerization, whereas for RAFT polymerization and for the penultimate model the following reactivity ratios were obtained: r11 = 4.466, r22 = 0, r21 = 14.830, and r12 = 0 (1 stands for NVP and 2 for IBMA). In all cases, the NVP reactivity ratio was significantly lower than that of IBMA. Structural parameters of the copolymers were obtained by calculating the dyad sequence fractions and the mean sequence length. The thermal properties of the copolymers were studied by differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), and differential thermogravimetry (DTG). The results were compared with those of the respective homopolymers.
 
