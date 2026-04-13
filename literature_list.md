@@ -5,6 +5,21 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Gel-Gel Interface Engineering for the Synthesis of Anisotropic Hydrogels with Designable Polymer Orientations
+- **Auther**: Takahashi, Karasawa, Sano
+- **Publication**: 2025
+- **Abstract**: Anisotropic hydrogels with designable structural complexity can exhibit sophisticated properties reminiscent of those found in living organisms. However, conventional synthetic methods typically require specific anisotropic additives and complicated processes, limiting design flexibility. Here, a simple and versatile strategy to synthesize anisotropic hydrogels with photo-designable orientations of polymer networks is developed by harnessing a “gel-gel interface,” which can be generated through the intentional adhesion between hydrogels. This strategy originates from the serendipitous discovery: when a gel-gel interface is intentionally introduced into a hydrogel through a two-step polymerization, the polymer networks near the interface are spontaneously aligned perpendicular to the interface, as a result of the simultaneous swelling and fixation process during gel-to-gel adhesion. By employing a photo-initiator system to control the gel-gel interface, anisotropic hydrogels with both 2D and 3D designed polymer orientations, as well as anisotropic hydrogels with thermally switchable polymer orientations, are successfully synthesized. The gel-gel interface has long been regarded as merely an undesirable byproduct of gel adhesion, while the complementary bulk region of hydrogels has been the primary focus in constructing anisotropic hydrogels. In contrast, this work demonstrates the utility of the gel-gel interface, expanding design possibilities for next-generation hydrogels with designable structural complexity.
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Gel architectures and their complexity
 - **Auther**: Richtering, Saunders
 - **Publication**: 2014-05-08
@@ -491,19 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: 藤田桂一, 嶋田勝, 水城勝美
 - **Publication**: 1973
 - **Abstract**: 文献「赤外線吸収スペクトルによる合成高分子化合物の系統的鑑別法」の詳細情報です。J-GLOBAL 科学技術総合リンクセンターは、国立研究開発法人科学技術振興機構（JST）が運営する、無料で研究者、文献、特許などの科学技術・医学薬学等の二次情報を閲覧できる検索サービスです。検索結果からJST内外の良質な一次情報等へ案内します。
-
-## ラジカル重合
-- **Auther**: 上垣外, 佐藤
-- **Publication**: 2009
-- **Abstract**: ラジカル重合は，活性の高い中性のラジカル種を成長種とする重合反応であり，古くから学問的にもさまざまな研究がなされてきた。一方では，その高い反応性と汎用性，水などの極性物質に対する高い耐性から，工業的にも最も広く用いられている重合の一つである。さらに近年では，リビングラジカル重合の開発により，さまざまな精密高分子合成にも用いられるようになり，ラジカル重合は新たな展開を迎えている。本稿では，ラジカル重合性モノマー，ラジカル重合における開始，成長，停止，連鎖移動反応の 4 つの素反応，ラジカル共重合など古典的なラジカル重合における基礎的な内容から，リビングラジカル重合，さらにラジカル重合における立体構造制御にいたる最近の発展について概説する。
-
-## ハイドロゲル表面の構造と環境調和型ゲルテクノロジー
-- **Auther**: 鈴木
-- **Publication**: 2007
-- **Abstract**: 
-
-## バイオマテリアルと生体界面
-- **Auther**: 大塚, 片岡
-- **Publication**: 2003
-- **Abstract**: 
 
