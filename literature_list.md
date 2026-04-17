@@ -1,5 +1,25 @@
 # Zotero My Library
 
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Bistable Wetting States on a Smooth Surface
+- **Auther**: Tenjimbayashi, Arai
+- **Publication**: 
+- **Abstract**: Droplets on a non-textured surface typically exhibit a monostable wetting state, as represented by Young state. Here, we show that droplets can exhibit bistability without surface texture by tuning molecular interactions. We investigated the behavior of water droplets on a smooth substrate when immersed in oil. The oil contains hydrophilic interaction components, and their hydrophobic–hydrophilic balance was systematically varied. For oils with a specific hydrophobic–hydrophilic balance, droplet states bifurcate between repellent or sticky depending on the order of droplet casting and oil immersion. These states are neither transient nor one-off, indicating molecular interactions can create an energetic barrier separating the two states rather than surface textures. Under other oil conditions, the droplet remains monostable, either repellent or sticky, regardless of the order. This work advances the fundamental understanding of molecular effects on droplet behavior and expands surface design strategies in functional materials without compromising mechanical durability.
+
+## Bistable Wetting States on a Smooth Surface - Tenjimbayashi - Advanced Materials Interfaces - Wiley Online Library
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -486,24 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Pham, Paven, Wooh, Kajiya, Butt, Vollmer
 - **Publication**: 2017-10
 - **Abstract**: The contact between liquid drops and hot solid surfaces is of practical importance for industrial processes, such as thermal spraying and spray cooling. The contact and bouncing of solid spheres is also an important event encountered in ball milling, powder processing, and everyday activities, such as ball sports. Using high speed video microscopy, we demonstrate that hydrogel drops, initially at rest on a surface, spontaneously jump upon rapid heating and continue to bounce with increasing amplitudes. Jumping is governed by the surface wettability, surface temperature, hydrogel elasticity, and adhesion. A combination of low-adhesion impact behavior and fast water vapor formation supports continuous bouncing and trampolining. Our results illustrate how the interplay between solid and liquid characteristics of hydrogels results in intriguing dynamics, as reflected by spontaneous jumping, bouncing, trampolining, and extremely short contact times.Drops of liquid on a hot surface can exhibit fascinating behaviour such as the Leidenfrost effect in which drops hover on a vapour layer. Here Pham et al. show that when hydrogel drops are placed on a rapidly heated plate they bounce to increasing heights even if they were initially at rest.
-
-## Cross-link Density Dependence of Spatial Inhomogeneities and Dynamic Fluctuations of Poly(N-isopropylacrylamide) Gels
-- **Auther**: Shibayama, Norisuye, Nomura
-- **Publication**: 1996-01-01
-- **Abstract**: Dynamic light scattering studies have been carried out on poly(N-isopropylacrylamide) (NIPA) gels having different cross-link densities. Intensity−intensity time correlation functions obtained at 25 °C were successfully analyzed by taking account of the nonergodic nature of gels. By taking the ensemble average (〈I〉E) of the time average scattered intensity (〈I〉T), the dynamic component of the concentration fluctuations (〈IF〉T) and the spatial inhomogeneities (〈I〉E; the ensemble average) were evaluated as a function of cross-link density. While 〈IF〉T remained more or less constant, 〈I〉E increased with the increasing ratio of cross-linker concentration (CBIS) to the monomer concentration (CNIPA), r ≡ CBIS/CNIPA, where BIS is the abbreviation of the cross-linker, N,N‘-methylenebis(acrylamide). This indicates domination of the static inhomogeneity for large r. The correlation length, ξ, a measure of the range of dynamic fluctuations, was evaluated from the time correlation function. A linear relationship was obtained for ξ-1, i.e., 1/ξ = (1/ξsoln) + (1/ ξgel)r, with ξsoln = 144 Å and ξgel = 8.12 Å. The value of ξgel was found to be in good agreement with the literature value for the segment length of NIPA polymers, 8.12 Å.
-
-## 次世代の再生医療を実現するパターン培養技術
-- **Auther**: 森田
-- **Publication**: 2005
-- **Abstract**: 
-
-## Cell locomotion and focal adhesions are regulated by substrate flexibility
-- **Auther**: Pelham, Wang
-- **Publication**: 1997-12-09
-- **Abstract**: Responses of cells to mechanical properties of the adhesion substrate were examined by culturing normal rat kidney epithelial and 3T3 fibroblastic cells on a collagen-coated polyacrylamide substrate that allows the flexibility to be varied while maintaining a constant chemical environment. Compared with cells on rigid substrates, those on flexible substrates showed reduced spreading and increased rates of motility or lamellipodial activity. Microinjection of fluorescent vinculin indicated that focal adhesions on flexible substrates were irregularly shaped and highly dynamic whereas those on firm substrates had a normal morphology and were much more stable. Cells on flexible substrates also contained a reduced amount of phosphotyrosine at adhesion sites. Treatment of these cells with phenylarsine oxide, a tyrosine phosphatase inhibitor, induced the formation of normal, stable focal adhesions similar to those on firm substrates. Conversely, treatment of cells on firm substrates with myosin inhibitors 2,3-butanedione monoxime or KT5926 caused the reduction of both vinculin and phosphotyrosine at adhesion sites. These results demonstrate the ability of cells to survey the mechanical properties of their surrounding environment and suggest the possible involvement of both protein tyrosine phosphorylation and myosin-generated cortical forces in this process. Such response to physical parameters likely represents an important mechanism of cellular interaction with the surrounding environment within a complex organism.
-
-## 赤外線吸収スペクトルによる合成高分子化合物の系統的鑑別法
-- **Auther**: 藤田桂一, 嶋田勝, 水城勝美
-- **Publication**: 1973
-- **Abstract**: 文献「赤外線吸収スペクトルによる合成高分子化合物の系統的鑑別法」の詳細情報です。J-GLOBAL 科学技術総合リンクセンターは、国立研究開発法人科学技術振興機構（JST）が運営する、無料で研究者、文献、特許などの科学技術・医学薬学等の二次情報を閲覧できる検索サービスです。検索結果からJST内外の良質な一次情報等へ案内します。
 
