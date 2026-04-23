@@ -155,16 +155,6 @@
 - **Publication**: 2026-07-20
 - **Abstract**: Hydrogels possess a three-dimensional network structure that retains aqueous solvents, making them suitable for mimicking biological tissues. When hydrogels are used as biomaterials, surface properties play a critical role in their adhesion to biological tissues and in their overall biocompatibility. However, bulk and surface properties are interdependent, which makes controlling surface characteristics while maintaining the desired bulk properties difficult. Understanding the relationship between bulk physicochemical properties and surface characteristics is therefore essential for rational material design. In this study, we investigated the influence of fabrication conditions on both bulk and surface properties of polyacrylamide (PAAM) gels. PAAM gels were prepared with a constant polymer concentration and systematically varied ratios of the cross-linker N,N'-methylenebisacrylamide (Bis). Bulk properties—including elastic modulus, swelling ratio, visible-light transmittance, and dynamic light scattering—were measured, whereas surface characteristics were assessed via contact angle measurements. Bulk and surface structures were further examined using scanning electron microscopy. The results showed that the effective network density increased with increasing Bis ratio when its molar concentration was below a threshold. By contrast, excess Bis led to increased network inhomogeneity. Contact angle measurements revealed a minimum at the Bis ratio corresponding to the onset of substantial bulk inhomogeneity, indicating that polymer chain elongation near the surface strongly influences surface wettability. In addition, when the bulk network exhibited substantial inhomogeneity, discrepancies arose between the bulk and surface properties, with surface characteristics deviating from macroscopic bulk properties such as the elastic modulus and swelling ratio. These findings provide new insight into the relationship between bulk and surface properties in inhomogeneous hydrogels and suggest the possibility of synthesizing hydrogels with tailored surface characteristics without additional surface modification.
 
-## ScienceDirect Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## ScienceDirect Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## Sponge-like Heterogeneous Gels: Hierarchical Structures in Poly(N-isopropylacrylamide) Chemical Gels As Observed by Combined Scattering and Confocal Microscopy Method
 - **Auther**: Hirokawa, Okamoto, Kimishima, Jinnai, Koizumi, Aizawa, Hashimoto
 - **Publication**: 2008-11-11
@@ -506,4 +496,14 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Pham, Paven, Wooh, Kajiya, Butt, Vollmer
 - **Publication**: 2017-10
 - **Abstract**: The contact between liquid drops and hot solid surfaces is of practical importance for industrial processes, such as thermal spraying and spray cooling. The contact and bouncing of solid spheres is also an important event encountered in ball milling, powder processing, and everyday activities, such as ball sports. Using high speed video microscopy, we demonstrate that hydrogel drops, initially at rest on a surface, spontaneously jump upon rapid heating and continue to bounce with increasing amplitudes. Jumping is governed by the surface wettability, surface temperature, hydrogel elasticity, and adhesion. A combination of low-adhesion impact behavior and fast water vapor formation supports continuous bouncing and trampolining. Our results illustrate how the interplay between solid and liquid characteristics of hydrogels results in intriguing dynamics, as reflected by spontaneous jumping, bouncing, trampolining, and extremely short contact times.Drops of liquid on a hot surface can exhibit fascinating behaviour such as the Leidenfrost effect in which drops hover on a vapour layer. Here Pham et al. show that when hydrogel drops are placed on a rapidly heated plate they bounce to increasing heights even if they were initially at rest.
+
+## Cross-link Density Dependence of Spatial Inhomogeneities and Dynamic Fluctuations of Poly(N-isopropylacrylamide) Gels
+- **Auther**: Shibayama, Norisuye, Nomura
+- **Publication**: 1996-01-01
+- **Abstract**: Dynamic light scattering studies have been carried out on poly(N-isopropylacrylamide) (NIPA) gels having different cross-link densities. Intensity−intensity time correlation functions obtained at 25 °C were successfully analyzed by taking account of the nonergodic nature of gels. By taking the ensemble average (〈I〉E) of the time average scattered intensity (〈I〉T), the dynamic component of the concentration fluctuations (〈IF〉T) and the spatial inhomogeneities (〈I〉E; the ensemble average) were evaluated as a function of cross-link density. While 〈IF〉T remained more or less constant, 〈I〉E increased with the increasing ratio of cross-linker concentration (CBIS) to the monomer concentration (CNIPA), r ≡ CBIS/CNIPA, where BIS is the abbreviation of the cross-linker, N,N‘-methylenebis(acrylamide). This indicates domination of the static inhomogeneity for large r. The correlation length, ξ, a measure of the range of dynamic fluctuations, was evaluated from the time correlation function. A linear relationship was obtained for ξ-1, i.e., 1/ξ = (1/ξsoln) + (1/ ξgel)r, with ξsoln = 144 Å and ξgel = 8.12 Å. The value of ξgel was found to be in good agreement with the literature value for the segment length of NIPA polymers, 8.12 Å.
+
+## 次世代の再生医療を実現するパターン培養技術
+- **Auther**: 森田
+- **Publication**: 2005
+- **Abstract**: 
 
