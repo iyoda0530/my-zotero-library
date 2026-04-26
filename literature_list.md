@@ -1,5 +1,15 @@
 # Zotero My Library
 
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Scaling laws to predict humidity-induced swelling and stiffness in hydrogels
+- **Auther**: Gao, Chai, Garakani, Datta, Cho
+- **Publication**: 2021-11-10
+- **Abstract**: From pasta to biological tissues to contact lenses, gel and gel-like materials inherently soften as they swell with water. In dry, low-relative-humidity environments, these materials stiffen as they de-swell with water. Here, we use semi-dilute polymer theory to develop a simple power-law relationship between hydrogel elastic modulus and swelling. From this relationship, we predict hydrogel stiffness or swelling at arbitrary relative humidities. Our close predictions of properties of hydrogels across three different polymer mesh families at varying crosslinking densities and relative humidities demonstrate the validity and generality of our understanding. This predictive capability enables more rapid material discovery and selection for hydrogel applications in varying humidity environments.
+
 ## Snapshot
 - **Auther**: 
 - **Publication**: N/A
@@ -496,14 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Pham, Paven, Wooh, Kajiya, Butt, Vollmer
 - **Publication**: 2017-10
 - **Abstract**: The contact between liquid drops and hot solid surfaces is of practical importance for industrial processes, such as thermal spraying and spray cooling. The contact and bouncing of solid spheres is also an important event encountered in ball milling, powder processing, and everyday activities, such as ball sports. Using high speed video microscopy, we demonstrate that hydrogel drops, initially at rest on a surface, spontaneously jump upon rapid heating and continue to bounce with increasing amplitudes. Jumping is governed by the surface wettability, surface temperature, hydrogel elasticity, and adhesion. A combination of low-adhesion impact behavior and fast water vapor formation supports continuous bouncing and trampolining. Our results illustrate how the interplay between solid and liquid characteristics of hydrogels results in intriguing dynamics, as reflected by spontaneous jumping, bouncing, trampolining, and extremely short contact times.Drops of liquid on a hot surface can exhibit fascinating behaviour such as the Leidenfrost effect in which drops hover on a vapour layer. Here Pham et al. show that when hydrogel drops are placed on a rapidly heated plate they bounce to increasing heights even if they were initially at rest.
-
-## Cross-link Density Dependence of Spatial Inhomogeneities and Dynamic Fluctuations of Poly(N-isopropylacrylamide) Gels
-- **Auther**: Shibayama, Norisuye, Nomura
-- **Publication**: 1996-01-01
-- **Abstract**: Dynamic light scattering studies have been carried out on poly(N-isopropylacrylamide) (NIPA) gels having different cross-link densities. Intensity−intensity time correlation functions obtained at 25 °C were successfully analyzed by taking account of the nonergodic nature of gels. By taking the ensemble average (〈I〉E) of the time average scattered intensity (〈I〉T), the dynamic component of the concentration fluctuations (〈IF〉T) and the spatial inhomogeneities (〈I〉E; the ensemble average) were evaluated as a function of cross-link density. While 〈IF〉T remained more or less constant, 〈I〉E increased with the increasing ratio of cross-linker concentration (CBIS) to the monomer concentration (CNIPA), r ≡ CBIS/CNIPA, where BIS is the abbreviation of the cross-linker, N,N‘-methylenebis(acrylamide). This indicates domination of the static inhomogeneity for large r. The correlation length, ξ, a measure of the range of dynamic fluctuations, was evaluated from the time correlation function. A linear relationship was obtained for ξ-1, i.e., 1/ξ = (1/ξsoln) + (1/ ξgel)r, with ξsoln = 144 Å and ξgel = 8.12 Å. The value of ξgel was found to be in good agreement with the literature value for the segment length of NIPA polymers, 8.12 Å.
-
-## 次世代の再生医療を実現するパターン培養技術
-- **Auther**: 森田
-- **Publication**: 2005
-- **Abstract**: 
 
