@@ -1,5 +1,25 @@
 # Zotero My Library
 
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## On the rheological properties of silica – Polyethylene oxide dispersions: Shake gels I the effect of polymer concentration and temperature
+- **Auther**: Banerjee, Lew, Luckham
+- **Publication**: 2024-11-20
+- **Abstract**: Shake-gels are aqueous mixtures of silica and Poly(ethylene-oxide) (PEO) that form reversible gels when subjected to an applied force, such as shaking. This shear-thickening effect can be observed using a rheometer, which shows discrete, sudden changes in the material's viscosity. Preliminary qualitative investigations have shown that the gelation time varies depending on the conditions used. We also measure the time required for the gel to relax and revert to its liquid state. To quantify the relationships between these variables and better understand the process and kinetics, a systematic investigation was conducted, focusing on the effects of polymer concentration and temperature on gelation and relaxation times. Experiments were carried out using a rheometer with double-gap concentric cylinder geometry, applying a constant shear rate to samples with varying polymer concentrations and temperatures. The results showed that, at a fixed shear rate, gelation and relaxation times varied significantly, ranging from a few seconds to over an hour. Both gelation and relaxation occurred more rapidly as polymer concentration increased. Additionally, higher temperatures led to faster gelation and relaxation times and vice versa.
+
+## d3sm01472j1
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -486,24 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Ilavský, Dušek
 - **Publication**: 1993
 - **Abstract**: The effect of the concentration of the charge, its polarity, and position in the side chain together with the effect of amount of diluent and crosslinker at network formation on the appearance and the extent of the first-order phase transition in the swollen ionized polyacrylamide gels in water-acetone mixtures and in ionized poly (N,N′-diethylacrylamide) gels in water is summarized. The results of the swelling, photoelastic, and mechanical behavior together with small-angle neutron scattering, direct-current conductivity and dielectric measurements of these hydrogels in the collapse region are presented and it is shown that a jumpwise volume change at the transition correlates with jumpwise changes in the equilibrium modulus, the stress-optical coefficient, both components of the complex permittivity and modulus, and in the conductivity. The chains were found to have the form of a Gaussian coil in the expanded state and a compact globular structure in the collapsed state. The theory describing the swelling equilibria in polyelectrolyte networks is analyzed and it is shown that experimental swelling behavior of polyacrylamide gels at the collapse can be described by this theory if the correction factor for the effective degree of ionization is introduced.
-
-## Deformational, swelling, and potentiometric behavior of ionized poly(methacrylic acid) gels. I. Theory
-- **Auther**: Hasa, Ilavský, Dušek
-- **Publication**: 1975
-- **Abstract**: By using the model of a randomly coiled chain, a relation is derived describing the equilibrium stress–strain behavior of variously ionized polyelectrolyte gels swollen in solutions of a uni–univalent salt. The effect of the concentration of bound counterions calculated on the basis of the cylindrical model and the effect of the change of length of the statistical chain segment with the change in ionization of the gel on stress–strain, swelling, and potentiometric equilibria is discussed.
-
-## Theory of Solutions of High Polymers1
-- **Auther**: Huggins
-- **Publication**: 1942-07-01
-- **Abstract**: 
-
-## Thermodynamics of High Polymer Solutions
-- **Auther**: Flory
-- **Publication**: 1942-01-01
-- **Abstract**: A statistical mechanical treatment of high polymer solutions has been carried out on the basis of an idealized model, originally proposed by Meyer, which is analogous to the one ordinarily assumed in the derivation of the ``ideal'' solution laws for molecules of equal size. There is obtained for the entropy of mixing of n solvent and N linear polymer molecules (originally disoriented), ΔS=-k[(n/β) ln v1+N ln v2] where v1 and v2 are volume fractions and β is the number of solvent molecules replaceable by a freely orienting segment of the polymer chain. This expression is similar in form to the classical expression for equal-sized molecules, mole fractions having been replaced by volume fractions. When the disparity between the sizes of the two components is great, this expression gives entropies differing widely from the classical values, which accounts for the large deviations of high polymer solutions from ``ideal'' behavior. The entropy of disorientation of a perfectly arranged linear polymer is found to be of the order of R cal. per chain segment. After introducing a suitable heat of mixing term, partial molal free energies are computed, and the calculations are compared with experimental data for all concentrations. Phase equilibria have been calculated in the region of partial miscibility. The theory predicts, in agreement with experiment, that the critical composition for partial miscibility lies at a low concentration of polymer. Low intrinsic viscosities of polymers dissolved in poor solvents are attributed to the tendency for the molecule to assume a more compact configuration in such an environment.
-
-## Spontaneous jumping, bouncing and trampolining of hydrogel drops on a heated plate
-- **Auther**: Pham, Paven, Wooh, Kajiya, Butt, Vollmer
-- **Publication**: 2017-10
-- **Abstract**: The contact between liquid drops and hot solid surfaces is of practical importance for industrial processes, such as thermal spraying and spray cooling. The contact and bouncing of solid spheres is also an important event encountered in ball milling, powder processing, and everyday activities, such as ball sports. Using high speed video microscopy, we demonstrate that hydrogel drops, initially at rest on a surface, spontaneously jump upon rapid heating and continue to bounce with increasing amplitudes. Jumping is governed by the surface wettability, surface temperature, hydrogel elasticity, and adhesion. A combination of low-adhesion impact behavior and fast water vapor formation supports continuous bouncing and trampolining. Our results illustrate how the interplay between solid and liquid characteristics of hydrogels results in intriguing dynamics, as reflected by spontaneous jumping, bouncing, trampolining, and extremely short contact times.Drops of liquid on a hot surface can exhibit fascinating behaviour such as the Leidenfrost effect in which drops hover on a vapour layer. Here Pham et al. show that when hydrogel drops are placed on a rapidly heated plate they bounce to increasing heights even if they were initially at rest.
 
