@@ -115,16 +115,6 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
-## ScienceDirect Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## ScienceDirect Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## The properties of polyampholyte microgel particles prepared by microemulsion polymerization
 - **Auther**: Neyret, Vincent
 - **Publication**: 1997-01-01
@@ -506,4 +496,14 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Ilavský, Dušek
 - **Publication**: 1993
 - **Abstract**: The effect of the concentration of the charge, its polarity, and position in the side chain together with the effect of amount of diluent and crosslinker at network formation on the appearance and the extent of the first-order phase transition in the swollen ionized polyacrylamide gels in water-acetone mixtures and in ionized poly (N,N′-diethylacrylamide) gels in water is summarized. The results of the swelling, photoelastic, and mechanical behavior together with small-angle neutron scattering, direct-current conductivity and dielectric measurements of these hydrogels in the collapse region are presented and it is shown that a jumpwise volume change at the transition correlates with jumpwise changes in the equilibrium modulus, the stress-optical coefficient, both components of the complex permittivity and modulus, and in the conductivity. The chains were found to have the form of a Gaussian coil in the expanded state and a compact globular structure in the collapsed state. The theory describing the swelling equilibria in polyelectrolyte networks is analyzed and it is shown that experimental swelling behavior of polyacrylamide gels at the collapse can be described by this theory if the correction factor for the effective degree of ionization is introduced.
+
+## Deformational, swelling, and potentiometric behavior of ionized poly(methacrylic acid) gels. I. Theory
+- **Auther**: Hasa, Ilavský, Dušek
+- **Publication**: 1975
+- **Abstract**: By using the model of a randomly coiled chain, a relation is derived describing the equilibrium stress–strain behavior of variously ionized polyelectrolyte gels swollen in solutions of a uni–univalent salt. The effect of the concentration of bound counterions calculated on the basis of the cylindrical model and the effect of the change of length of the statistical chain segment with the change in ionization of the gel on stress–strain, swelling, and potentiometric equilibria is discussed.
+
+## Theory of Solutions of High Polymers1
+- **Auther**: Huggins
+- **Publication**: 1942-07-01
+- **Abstract**: 
 
