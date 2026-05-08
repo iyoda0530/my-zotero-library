@@ -25,6 +25,16 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## ScienceDirect Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## ScienceDirect Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## d3sm01472j1
 - **Auther**: 
 - **Publication**: N/A
@@ -496,14 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Owens, Wendt
 - **Publication**: 1969
 - **Abstract**: A method for measuring the surface energy of solids and for resolving the surface energy into contributions from dispersion and dipole-hydrogen bonding forces has been developed. It is based on the measurement of contact angles with water and methylene iodide. Good agreement has been obtained with the more laborious γc method. Evidence for a finite value of liquid-solid interfacial tension at zero contact angle is presented. The method is especially applicable to the surface characterization of polymers.
-
-## III. An essay on the cohesion of fluids
-- **Auther**: Young
-- **Publication**: 1805-12-31
-- **Abstract**: It has already been asserted, by Mr. Monge and others, that the phenomena of capillary tubes are referable to the cohesive attraction of the superficial particles only of the fluids em­ployed, and that the surfaces must consequently be formed into curves of the nature of lintearias, which are supposed to be the results of a uniform tension of a surface, resisting the pressure of a fluid, either uniform, or varying according to a given law. Segner, who appears to have been the first that maintained a similar opinion, has shown in what manner the principle may be deduced from the doctrine of attraction, but his demonstration is complicated, and not perfectly satisfactory; and in applying the law to the forms of drops, he has neglected to consider the very material effects of the double curvature, which is evidently the cause of the want of a perfect coinci­dence of some of his experiments with his theory. Since the time of Segner, little has been done in investigating accurately and in detail the various consequences of the principle. It will perhaps be most agreeable to the experimental phi­losopher, although less consistent with the strict course of logical argument, to proceed in the first place to the comparison of this theory with the phenomena, and to inquire afterwards for its foundation in the ultimate properties of matter. But it is necessary to premise one observation, which appears to be new, and which is equally consistent with theory and with experiment; that is, that for each combination of a solid and a fluid, there is an appropriate angle of contact between the surfaces of the fluid, exposed to the air, and to the solid. This angle, for glass and water, and in all cases where a solid is perfectly wetted by a fluid, is evanescent: for glass and mer­cury, it is about 140°, in common temperatures, and when the mercury is moderately clean.
-
-## Effect of phase transition on swelling and mechanical behavior of synthetic hydrogels
-- **Auther**: Ilavský, Dušek
-- **Publication**: 1993
-- **Abstract**: The effect of the concentration of the charge, its polarity, and position in the side chain together with the effect of amount of diluent and crosslinker at network formation on the appearance and the extent of the first-order phase transition in the swollen ionized polyacrylamide gels in water-acetone mixtures and in ionized poly (N,N′-diethylacrylamide) gels in water is summarized. The results of the swelling, photoelastic, and mechanical behavior together with small-angle neutron scattering, direct-current conductivity and dielectric measurements of these hydrogels in the collapse region are presented and it is shown that a jumpwise volume change at the transition correlates with jumpwise changes in the equilibrium modulus, the stress-optical coefficient, both components of the complex permittivity and modulus, and in the conductivity. The chains were found to have the form of a Gaussian coil in the expanded state and a compact globular structure in the collapsed state. The theory describing the swelling equilibria in polyelectrolyte networks is analyzed and it is shown that experimental swelling behavior of polyacrylamide gels at the collapse can be described by this theory if the correction factor for the effective degree of ionization is introduced.
 
