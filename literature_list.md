@@ -15,26 +15,6 @@
 - **Publication**: 2024-11-20
 - **Abstract**: Shake-gels are aqueous mixtures of silica and Poly(ethylene-oxide) (PEO) that form reversible gels when subjected to an applied force, such as shaking. This shear-thickening effect can be observed using a rheometer, which shows discrete, sudden changes in the material's viscosity. Preliminary qualitative investigations have shown that the gelation time varies depending on the conditions used. We also measure the time required for the gel to relax and revert to its liquid state. To quantify the relationships between these variables and better understand the process and kinetics, a systematic investigation was conducted, focusing on the effects of polymer concentration and temperature on gelation and relaxation times. Experiments were carried out using a rheometer with double-gap concentric cylinder geometry, applying a constant shear rate to samples with varying polymer concentrations and temperatures. The results showed that, at a fixed shear rate, gelation and relaxation times varied significantly, ranging from a few seconds to over an hour. Both gelation and relaxation occurred more rapidly as polymer concentration increased. Additionally, higher temperatures led to faster gelation and relaxation times and vice versa.
 
-## ScienceDirect Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## ScienceDirect Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## ScienceDirect Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## ScienceDirect Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## d3sm01472j1
 - **Auther**: 
 - **Publication**: N/A
@@ -64,11 +44,6 @@
 - **Auther**: Tenjimbayashi, Arai
 - **Publication**: 
 - **Abstract**: Droplets on a non-textured surface typically exhibit a monostable wetting state, as represented by Young state. Here, we show that droplets can exhibit bistability without surface texture by tuning molecular interactions. We investigated the behavior of water droplets on a smooth substrate when immersed in oil. The oil contains hydrophilic interaction components, and their hydrophobic–hydrophilic balance was systematically varied. For oils with a specific hydrophobic–hydrophilic balance, droplet states bifurcate between repellent or sticky depending on the order of droplet casting and oil immersion. These states are neither transient nor one-off, indicating molecular interactions can create an energetic barrier separating the two states rather than surface textures. Under other oil conditions, the droplet remains monostable, either repellent or sticky, regardless of the order. This work advances the fundamental understanding of molecular effects on droplet behavior and expands surface design strategies in functional materials without compromising mechanical durability.
-
-## Bistable Wetting States on a Smooth Surface - Tenjimbayashi - Advanced Materials Interfaces - Wiley Online Library
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
 
 ## Full Text PDF
 - **Auther**: 
@@ -506,4 +481,29 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Owens, Wendt
 - **Publication**: 1969
 - **Abstract**: A method for measuring the surface energy of solids and for resolving the surface energy into contributions from dispersion and dipole-hydrogen bonding forces has been developed. It is based on the measurement of contact angles with water and methylene iodide. Good agreement has been obtained with the more laborious γc method. Evidence for a finite value of liquid-solid interfacial tension at zero contact angle is presented. The method is especially applicable to the surface characterization of polymers.
+
+## III. An essay on the cohesion of fluids
+- **Auther**: Young
+- **Publication**: 1805-12-31
+- **Abstract**: It has already been asserted, by Mr. Monge and others, that the phenomena of capillary tubes are referable to the cohesive attraction of the superficial particles only of the fluids em­ployed, and that the surfaces must consequently be formed into curves of the nature of lintearias, which are supposed to be the results of a uniform tension of a surface, resisting the pressure of a fluid, either uniform, or varying according to a given law. Segner, who appears to have been the first that maintained a similar opinion, has shown in what manner the principle may be deduced from the doctrine of attraction, but his demonstration is complicated, and not perfectly satisfactory; and in applying the law to the forms of drops, he has neglected to consider the very material effects of the double curvature, which is evidently the cause of the want of a perfect coinci­dence of some of his experiments with his theory. Since the time of Segner, little has been done in investigating accurately and in detail the various consequences of the principle. It will perhaps be most agreeable to the experimental phi­losopher, although less consistent with the strict course of logical argument, to proceed in the first place to the comparison of this theory with the phenomena, and to inquire afterwards for its foundation in the ultimate properties of matter. But it is necessary to premise one observation, which appears to be new, and which is equally consistent with theory and with experiment; that is, that for each combination of a solid and a fluid, there is an appropriate angle of contact between the surfaces of the fluid, exposed to the air, and to the solid. This angle, for glass and water, and in all cases where a solid is perfectly wetted by a fluid, is evanescent: for glass and mer­cury, it is about 140°, in common temperatures, and when the mercury is moderately clean.
+
+## Effect of phase transition on swelling and mechanical behavior of synthetic hydrogels
+- **Auther**: Ilavský, Dušek
+- **Publication**: 1993
+- **Abstract**: The effect of the concentration of the charge, its polarity, and position in the side chain together with the effect of amount of diluent and crosslinker at network formation on the appearance and the extent of the first-order phase transition in the swollen ionized polyacrylamide gels in water-acetone mixtures and in ionized poly (N,N′-diethylacrylamide) gels in water is summarized. The results of the swelling, photoelastic, and mechanical behavior together with small-angle neutron scattering, direct-current conductivity and dielectric measurements of these hydrogels in the collapse region are presented and it is shown that a jumpwise volume change at the transition correlates with jumpwise changes in the equilibrium modulus, the stress-optical coefficient, both components of the complex permittivity and modulus, and in the conductivity. The chains were found to have the form of a Gaussian coil in the expanded state and a compact globular structure in the collapsed state. The theory describing the swelling equilibria in polyelectrolyte networks is analyzed and it is shown that experimental swelling behavior of polyacrylamide gels at the collapse can be described by this theory if the correction factor for the effective degree of ionization is introduced.
+
+## Deformational, swelling, and potentiometric behavior of ionized poly(methacrylic acid) gels. I. Theory
+- **Auther**: Hasa, Ilavský, Dušek
+- **Publication**: 1975
+- **Abstract**: By using the model of a randomly coiled chain, a relation is derived describing the equilibrium stress–strain behavior of variously ionized polyelectrolyte gels swollen in solutions of a uni–univalent salt. The effect of the concentration of bound counterions calculated on the basis of the cylindrical model and the effect of the change of length of the statistical chain segment with the change in ionization of the gel on stress–strain, swelling, and potentiometric equilibria is discussed.
+
+## Theory of Solutions of High Polymers1
+- **Auther**: Huggins
+- **Publication**: 1942-07-01
+- **Abstract**: 
+
+## Thermodynamics of High Polymer Solutions
+- **Auther**: Flory
+- **Publication**: 1942-01-01
+- **Abstract**: A statistical mechanical treatment of high polymer solutions has been carried out on the basis of an idealized model, originally proposed by Meyer, which is analogous to the one ordinarily assumed in the derivation of the ``ideal'' solution laws for molecules of equal size. There is obtained for the entropy of mixing of n solvent and N linear polymer molecules (originally disoriented), ΔS=-k[(n/β) ln v1+N ln v2] where v1 and v2 are volume fractions and β is the number of solvent molecules replaceable by a freely orienting segment of the polymer chain. This expression is similar in form to the classical expression for equal-sized molecules, mole fractions having been replaced by volume fractions. When the disparity between the sizes of the two components is great, this expression gives entropies differing widely from the classical values, which accounts for the large deviations of high polymer solutions from ``ideal'' behavior. The entropy of disorientation of a perfectly arranged linear polymer is found to be of the order of R cal. per chain segment. After introducing a suitable heat of mixing term, partial molal free energies are computed, and the calculations are compared with experimental data for all concentrations. Phase equilibria have been calculated in the region of partial miscibility. The theory predicts, in agreement with experiment, that the critical composition for partial miscibility lies at a low concentration of polymer. Low intrinsic viscosities of polymers dissolved in poor solvents are attributed to the tendency for the molecule to assume a more compact configuration in such an environment.
 
