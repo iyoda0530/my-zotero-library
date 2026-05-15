@@ -1,5 +1,10 @@
 # Zotero My Library
 
+## Extic
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -501,9 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Huggins
 - **Publication**: 1942-07-01
 - **Abstract**: 
-
-## Thermodynamics of High Polymer Solutions
-- **Auther**: Flory
-- **Publication**: 1942-01-01
-- **Abstract**: A statistical mechanical treatment of high polymer solutions has been carried out on the basis of an idealized model, originally proposed by Meyer, which is analogous to the one ordinarily assumed in the derivation of the ``ideal'' solution laws for molecules of equal size. There is obtained for the entropy of mixing of n solvent and N linear polymer molecules (originally disoriented), ΔS=-k[(n/β) ln v1+N ln v2] where v1 and v2 are volume fractions and β is the number of solvent molecules replaceable by a freely orienting segment of the polymer chain. This expression is similar in form to the classical expression for equal-sized molecules, mole fractions having been replaced by volume fractions. When the disparity between the sizes of the two components is great, this expression gives entropies differing widely from the classical values, which accounts for the large deviations of high polymer solutions from ``ideal'' behavior. The entropy of disorientation of a perfectly arranged linear polymer is found to be of the order of R cal. per chain segment. After introducing a suitable heat of mixing term, partial molal free energies are computed, and the calculations are compared with experimental data for all concentrations. Phase equilibria have been calculated in the region of partial miscibility. The theory predicts, in agreement with experiment, that the critical composition for partial miscibility lies at a low concentration of polymer. Low intrinsic viscosities of polymers dissolved in poor solvents are attributed to the tendency for the molecule to assume a more compact configuration in such an environment.
 
