@@ -1,5 +1,30 @@
 # Zotero My Library
 
+## IOP Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Micro-sized droplet formation by interaction between dielectric barrier discharge and liquid
+- **Auther**: Watanabe, Sugata, Yoshino
+- **Publication**: 2024-03
+- **Abstract**: Liquid atomization technology is one of the applications in various fields of modern industry because it improves reactivity, diffusion, and permeability of liquids. However, existing atomization technologies are severely limited by the physical and chemical properties of the solution or the object to be treated, and there is a growing need to develop atomization technologies that solve these problems. We have developed a device that atomizes liquids to the nanoscale based on the interaction with a dielectric barrier discharge, which enables the atomization of various types of solutions, including water-based and oil-based solutions. Herein, we report the results of visualizing the dynamics of liquid atomization using a high-speed camera. The device atomizes solutions in three modes: instability of the solution jet; physical fragmentation of the solution droplets by the impact of the plasma streamer; and collapse of the droplet surface and generation of a smoke-like mist during the streamer ejection from the solution droplet. The combined and repeated action of these three modes on the produced microdroplets is expected to result in nano-sized mists of the solution.
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Potential generation of nano-sized mist by passing a solution through dielectric barrier discharge
+- **Auther**: Watanabe, Tanaka, Miyaji, Yoshino
+- **Publication**: 2022-06-22
+- **Abstract**: Plasma medicine, a therapeutic technology that uses atmospheric-pressure plasma, is attracting much attention as an innovative tool for the medical field. Most of the plasma biomedical tools use direct effects, such as heat, optical stimulation, and reactive chemical species, on the lesion. Nanoparticulation techniques using indirect action by plasma, i.e., generation of electric fields, have the potential to be applied to promote transdermal absorption, where drugs pass through the barrier function of skin and penetrate into internal tissues. Here, we show a method to directly generate the nano-sized mist by passing a solution through the dielectric barrier discharge. This method enables us to produce the mist potentially in the nanometer size range for both water-based and oil-based solutions. Ease of mist generation was influenced by the plasma-induced changes in physical and chemical characteristics, including electrical conductivity, viscosity, and chemical species. We anticipate the developed method for nano-sized mist generation to provide a technique in the applications of the transdermal absorption system, including those related to pharmaceuticals and cosmetics.
+
+## Potential generation of nano-sized mist by passing a solution through dielectric barrier discharge | Scientific Reports
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Extic
 - **Auther**: 
 - **Publication**: N/A
@@ -481,29 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Owens
 - **Publication**: 1970
 - **Abstract**: Recently developed techniques permit the estimation of the surface free energy of polymers and the separation of this free energy into dispersion and hydrogen-bonding components. These techniques have been used to calculate the thermodynamic reversible work of adhesion of a vinylidene chloride copolymer coating to propylene film. The changes in work of adhesion upon immersion of the coated polypropylene in water and surfactant solutions were calculated. When the calculated work of adhesion was negative, spontaneous separation of the coating from the polypropylene occurred upon immersion in all cases. When the calculated work of adhesion was positive, no separation was observed in agreement with theory.
-
-## Estimation of the surface free energy of polymers
-- **Auther**: Owens, Wendt
-- **Publication**: 1969
-- **Abstract**: A method for measuring the surface energy of solids and for resolving the surface energy into contributions from dispersion and dipole-hydrogen bonding forces has been developed. It is based on the measurement of contact angles with water and methylene iodide. Good agreement has been obtained with the more laborious γc method. Evidence for a finite value of liquid-solid interfacial tension at zero contact angle is presented. The method is especially applicable to the surface characterization of polymers.
-
-## III. An essay on the cohesion of fluids
-- **Auther**: Young
-- **Publication**: 1805-12-31
-- **Abstract**: It has already been asserted, by Mr. Monge and others, that the phenomena of capillary tubes are referable to the cohesive attraction of the superficial particles only of the fluids em­ployed, and that the surfaces must consequently be formed into curves of the nature of lintearias, which are supposed to be the results of a uniform tension of a surface, resisting the pressure of a fluid, either uniform, or varying according to a given law. Segner, who appears to have been the first that maintained a similar opinion, has shown in what manner the principle may be deduced from the doctrine of attraction, but his demonstration is complicated, and not perfectly satisfactory; and in applying the law to the forms of drops, he has neglected to consider the very material effects of the double curvature, which is evidently the cause of the want of a perfect coinci­dence of some of his experiments with his theory. Since the time of Segner, little has been done in investigating accurately and in detail the various consequences of the principle. It will perhaps be most agreeable to the experimental phi­losopher, although less consistent with the strict course of logical argument, to proceed in the first place to the comparison of this theory with the phenomena, and to inquire afterwards for its foundation in the ultimate properties of matter. But it is necessary to premise one observation, which appears to be new, and which is equally consistent with theory and with experiment; that is, that for each combination of a solid and a fluid, there is an appropriate angle of contact between the surfaces of the fluid, exposed to the air, and to the solid. This angle, for glass and water, and in all cases where a solid is perfectly wetted by a fluid, is evanescent: for glass and mer­cury, it is about 140°, in common temperatures, and when the mercury is moderately clean.
-
-## Effect of phase transition on swelling and mechanical behavior of synthetic hydrogels
-- **Auther**: Ilavský, Dušek
-- **Publication**: 1993
-- **Abstract**: The effect of the concentration of the charge, its polarity, and position in the side chain together with the effect of amount of diluent and crosslinker at network formation on the appearance and the extent of the first-order phase transition in the swollen ionized polyacrylamide gels in water-acetone mixtures and in ionized poly (N,N′-diethylacrylamide) gels in water is summarized. The results of the swelling, photoelastic, and mechanical behavior together with small-angle neutron scattering, direct-current conductivity and dielectric measurements of these hydrogels in the collapse region are presented and it is shown that a jumpwise volume change at the transition correlates with jumpwise changes in the equilibrium modulus, the stress-optical coefficient, both components of the complex permittivity and modulus, and in the conductivity. The chains were found to have the form of a Gaussian coil in the expanded state and a compact globular structure in the collapsed state. The theory describing the swelling equilibria in polyelectrolyte networks is analyzed and it is shown that experimental swelling behavior of polyacrylamide gels at the collapse can be described by this theory if the correction factor for the effective degree of ionization is introduced.
-
-## Deformational, swelling, and potentiometric behavior of ionized poly(methacrylic acid) gels. I. Theory
-- **Auther**: Hasa, Ilavský, Dušek
-- **Publication**: 1975
-- **Abstract**: By using the model of a randomly coiled chain, a relation is derived describing the equilibrium stress–strain behavior of variously ionized polyelectrolyte gels swollen in solutions of a uni–univalent salt. The effect of the concentration of bound counterions calculated on the basis of the cylindrical model and the effect of the change of length of the statistical chain segment with the change in ionization of the gel on stress–strain, swelling, and potentiometric equilibria is discussed.
-
-## Theory of Solutions of High Polymers1
-- **Auther**: Huggins
-- **Publication**: 1942-07-01
-- **Abstract**: 
 
