@@ -5,6 +5,16 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## Singlet-Oxygen-Driven C(sp2)–P Bond Cleavage Enables Red-Light Uncaging of Phosphorus(V) Prodrugs on Gold Nanoclusters
+- **Auther**: Watanabe, Takada, Yamamoto, Kobashi, Maki, Nomura, Sasada, Tai, China, Niwa, Hosoya, Kitagishi, Negi, Kodera, Yamamoto
+- **Publication**: 2026-04-22
+- **Abstract**: Red and near-infrared light offer deep tissue penetration and spatiotemporal control for photodynamic therapy and localized drug release. However, selective release of phosphorus-containing prodrugs under long-wavelength irradiation remains challenging, owing to a lack of functional group designs that balance efficient photochemical activation with high dark stability. This study reports indolizine-based photocages with a phosphate, phosphinate, or thiophosphate moiety embedded as a robust C(sp2)–P bond at the indolizine C3 position. A practical synthesis was performed using indolizinylphosphonic dichlorides, generated in situ from 2-methoxyindolizines and POCl3, yielding diverse phosphoryl indolizines, including a gemcitabine conjugate. These conjugates efficiently uncaged to release their respective phosphorus(V) species under 660–808 nm irradiation with catalytic photosensitizers. Mechanistic studies using 18O-labeled water and specific scavengers indicated that water and singlet oxygen drive a photooxidative pathway leading to selective C(sp2)–P bond scission. To extend this reactivity to anticancer applications, we created approximately 1 nm-sized gold nanoclusters bearing indolizine–gemcitabine phosphonates, cyclic RGD (Arg-Gly-Asp) peptides, and chlorophyll-derived photosensitizers. The trifunctional nanoconjugates enabled red-light-triggered drug release, exhibiting pronounced light-dependent cytotoxicity against cancerous HeLa cells while maintaining low dark toxicity to normal fibroblasts. Collectively, the singlet-oxygen-driven C(sp2)–P bond cleavage of indolizines represents a promising strategy for developing photochemotherapeutic light-activatable phosphorus(V) prodrugs.
+
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Snapshot
 - **Auther**: 
 - **Publication**: N/A
@@ -496,14 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: 曽我部
 - **Publication**: 2017
 - **Abstract**: 
-
-## Physics at surfaces
-- **Auther**: Zangwill
-- **Publication**: 1988
-- **Abstract**: Physics at Surfaces is a unique graduate-level introduction to the physics and chemical physics of solid surfaces, and atoms and molecules that interact with solid surfaces. A subject of keen scientific inquiry since the last century, surface physics emerged as an independent discipline only in the late 1960s as a result of the development of ultra-high vacuum technology and high speed digital computers. With these tools, reliable experimental measurements and theoretical calculations could at last be compared. Progress in the last decade has been truly striking. This volume provides a synthesis of the entire field of surface physics from the perspective of a modern condensed matter physicist with a healthy interest in chemical physics. The exposition intertwines experiment and theory whenever possible, although there is little detailed discussion of technique. This much-needed text will be invaluable to graduate students and researchers in condensed matter physics, physical chemistry and materials science working in, or taking graduate courses in, surface science
-
-## The Surface Tension of Solids
-- **Auther**: Shuttleworth
-- **Publication**: 1950-05
-- **Abstract**: A distinction is made between the surface Helmholtz free energy F, and the surface tension γ. The surface energy is the work necessary to form unit area of surface by a process of division: the surface tension is the tangential stress (force per unit length) in the surface layer; this stress must be balanced either by external forces or by volume stresses in the body. The surface tension of a crystal face is related to the surface free energy by the relation γ=F+A(dF/dA), where A is the area of the surface. For a one-component liquid, surface free energy and tension are equal. For crystals the surface tension is not equal to the surface energy. The standard thermodynamic formulae of surface physics are reviewed, and it is found that the surface free energy appears in the expression for the equilibrium contact angle, and in the Kelvin expression for the excess vapour pressure of small drops, but that the surface tension appears in the expression for the difference in pressure between the two sides of a curved surface. The surface tensions of inert-gas and alkali-halide crystals are calculated from expressions for their surface energies and are found to be negative. The surface tensions of homopolar crystals are zero if it is possible to neglect the interaction between atoms that are not nearest neighbours.
 
