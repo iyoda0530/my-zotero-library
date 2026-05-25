@@ -1,5 +1,30 @@
 # Zotero My Library
 
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Genipin-cross-linked chitosan-based hydrogels: Reaction kinetics and structure-related characteristics
+- **Auther**: Dimida, Demitri, De Benedictis, Scalera, Gervaso, Sannino
+- **Publication**: 2015
+- **Abstract**: The main aim of this work is the synthesis and characterization of cross-linked chitosan systems. Chitosan hydrogels can be prepared by physical or chemical cross-linking of polymer chains. Chemical cross-linking, leading to the creation of hydrogel networks possessing improved mechanical properties and chemical stability, can be achieved using either synthetic agents or natural-based agents. In this work, the cross-linker Genipin, a naturally derived compound, was selected because of the lower acute toxicity compared to many other commonly used synthetic cross-linking reagents. In particular, the chemical stabilization of chitosan through genipin cross-linking molecules was performed and characterized by calorimetric analyses (differential scanning calorimetry), swelling measurements in different pHs, and ionic strength. The reaction kinetics was carried out by means of rheological measurements, and both the activation energy (Ea) and the reaction order (m) were calculated. The hydrogel analyses were carried out at different concentrations of genipin (GN1 and GN2). The results were used to evaluate the possibility to use the chemical cross-linked chitosan–genipin hydrogel for biomedical applications. © 2015 Wiley Periodicals, Inc. J. Appl. Polym. Sci. 2015, 132, 42256.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## IOP Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -481,29 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Shuttleworth
 - **Publication**: 1950-05
 - **Abstract**: A distinction is made between the surface Helmholtz free energy F, and the surface tension γ. The surface energy is the work necessary to form unit area of surface by a process of division: the surface tension is the tangential stress (force per unit length) in the surface layer; this stress must be balanced either by external forces or by volume stresses in the body. The surface tension of a crystal face is related to the surface free energy by the relation γ=F+A(dF/dA), where A is the area of the surface. For a one-component liquid, surface free energy and tension are equal. For crystals the surface tension is not equal to the surface energy. The standard thermodynamic formulae of surface physics are reviewed, and it is found that the surface free energy appears in the expression for the equilibrium contact angle, and in the Kelvin expression for the excess vapour pressure of small drops, but that the surface tension appears in the expression for the difference in pressure between the two sides of a curved surface. The surface tensions of inert-gas and alkali-halide crystals are calculated from expressions for their surface energies and are found to be negative. The surface tensions of homopolar crystals are zero if it is possible to neglect the interaction between atoms that are not nearest neighbours.
-
-## The Shuttleworth equation: Its modifications and current state
-- **Auther**: Marichev
-- **Publication**: 2011-01-01
-- **Abstract**: Derivation of the Shuttleworth equation is based on the experimental approach and data for viscous-liquid flow of copper close to its melting point. It includes contradictory statements and thus cannot be valid for the surface tension of true solids at ambient conditions. Neither this equation nor its corollaries had experimental confirmation till now, for more than a half of century.
-
-## Fowkes 式の拡張と高分子固体の表面張力の評価
-- **Auther**: 
-- **Publication**: 1972
-- **Abstract**: 
-
-## Calculation of interfacial tension in polymer systems
-- **Auther**: Wu
-- **Publication**: 1971
-- **Abstract**: We propose an equation, based on “reciprocal” mean and force additivity, for calculating the interfacial tension between polymers or between a polymer and an ordinary liquid: \documentclassarticle\pagestyleempty\begindocument\ \gamma _12 = \gamma _1 + \gamma _2 - \frac4\gamma _1 ^\rm d \gamma _2 ^\rm d\gamma _1 ^\rm d + \gamma _2 ^\rm d - \frac4\gamma _1 ^\rm p \gamma _2 ^\rm p\gamma _1 ^\rm p + \gamma _2 ^\rm p \enddocument where γ12 is the interfacial tension; γi the surface tension; γ and γ the dispersion and polar components of γi, respectively. This equation is shown to predict accurately the interfacial tension between polymers or between a polymer and an ordinary liquid. Fowkes' equation or Fowkes' equation with a geometric-mean polar term 2(γiPγ2p)1/2 is not applicable to polarlpolar systems. The interfacial tension arises mainly from disparity in the polarities of the two phases. The above equation can also be used to calculate the surface tension and polarity of polymers or organic solids from contact angle data.
-
-## A Reinterpretation of Organic Liquid-Polytetrafluoroethylene Surface Interactions
-- **Auther**: Kaelble, Uy
-- **Publication**: 1970-01-01
-- **Abstract**: The wettability of polytetrafluoroethylene (PTFE) by organic liquids is reanalyzed in terms of dispersion-polar interactions across the liquid-solid interface. The analysis provides values of γs d = 19.6 dyne/cm, and γS D = 2.0 dyne/cm for the respective dispersion and polar parts of the surface tension γs = 21.6 for PTFE. The definition of a polar contribution to the surface tension of PTFE clarifies detailed aspects of the wettability of this polymer by different homologous liquid series. A modified analytical definition for work of adhesion is developed and applied to this discussion.
-
-## Some thermodynamic aspects of polymer adhesion
-- **Auther**: Owens
-- **Publication**: 1970
-- **Abstract**: Recently developed techniques permit the estimation of the surface free energy of polymers and the separation of this free energy into dispersion and hydrogen-bonding components. These techniques have been used to calculate the thermodynamic reversible work of adhesion of a vinylidene chloride copolymer coating to propylene film. The changes in work of adhesion upon immersion of the coated polypropylene in water and surfactant solutions were calculated. When the calculated work of adhesion was negative, spontaneous separation of the coating from the polypropylene occurred upon immersion in all cases. When the calculated work of adhesion was positive, no separation was observed in agreement with theory.
 
