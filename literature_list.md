@@ -1,5 +1,35 @@
 # Zotero My Library
 
+## Flory et al., Journal of Chemical Physics, 1942.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Huggins et al., Journal of the American Chemical Society, 1942.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Ferry et al., , 1980.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Gennes et al., , 1979.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Ishikawa et al., Nature Materials, 2023.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## 藤田桂一 et al., 関税中央分析所報, 1973.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -150,12 +180,12 @@
 - **Publication**: 2020-06-01
 - **Abstract**: As polymer networks infiltrated with water, hydrogels constitute the major components of the human body; and hydrogels have been widely used in applications that closely interact with biological organisms, such as tissue engineering, drug delivery, and biological research. More recently, owing to their superior softness, wetness, responsiveness, biocompatibility, and bioactivity, hydrogels are being intensively investigated for versatile functions in devices and machines including sensors, actuators, coatings, optics, electronics, and water harvesters. A nascent field named hydrogel machines rapidly evolves, exploiting hydrogels as key components for devices and machines. While there are reviews on individual categories of hydrogel machines in literature, a comprehensive discussion on various categories of hydrogel machines that systematically correlate hydrogels’ properties and machines’ functions is still missing in the field. This review is aimed to provide such a panoramic overview. We first classify various hydrogel machines into a number of categories according to their applications. For each category, we discuss (i) the working principles of the hydrogel machines, (ii) the specific properties of hydrogels that enable the key functions of the machines, and (iii) challenges faced by hydrogel machines and recent developments to address them. The field of hydrogel machines will not only translate fundamental understanding of hydrogels into new applications, but also shift the paradigm in machine design by integrating hydrogels that can potentially minimize physical and physiological mismatches with biological organisms.
 
-## ScienceDirect Snapshot
+## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
 
-## ScienceDirect Full Text PDF
+## ScienceDirect Snapshot
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
@@ -476,34 +506,4 @@ Depending on the formulation, the innovative Rm-CSCs performed favorably for pri
 - **Auther**: Romero-Gilbert, Castro-García, Díaz-Chamorro, Marambio, Sánchez, Martin-Trasancos, Inostroza, García-Herrera, Pizarro
 - **Publication**: 2024/1
 - **Abstract**: Hydrogels consist of crosslinked hydrophilic polymers from which their mechanical properties can be modulated for a wide variety of applications. In the last decade, many catechol-based bioinspired adhesives have been developed following the strategy of incorporating catechol moieties into polymeric backbones. In this work, in order to further investigate the adhesive properties of hydrogels and their potential advantages, several hydrogels based on poly(2-hydroxyethyl methacrylate-co-acrylamide) with N′N-methylene-bisacrylamide (MBA), without/with L-3,4-dihydroxyphenylalanine (DOPA) as a catecholic crosslinker, were prepared via free radical copolymerization. 2-Hydroxyethyl methacrylate (HEMA) and acrylamide (AAm) were used as comonomers and MBA and DOPA both as crosslinking agents at 0.1, 0.3, and 0.5 mol.-%, respectively. The polymeric hydrogels were characterized by Fourier transform infrared spectroscopy (FT-IR), thermal analysis and swelling behavior analysis. Subsequently, the mechanical properties of hydrogels were determined. The elastic properties of the hydrogels were quantified using Young’s modulus (stress–strain curves). According to the results herein, the hydrogel with a feed monomer ratio of 1:1 at 0.3 mol.-% of MBA and DOPA displayed the highest rigidity and higher failure shear stress (greater adhesive properties). In addition, the fracture lap shear strength of the biomimetic polymeric hydrogel was eight times higher than the initial one (only containing MBA); however at 0.5 mol.-% MBA/DOPA, it was only two times higher. It is understood that when two polymer surfaces are brought into close contact, physical self-bonding (Van der Waals forces) at the interface may occur in an –OH interaction with wet contacting surfaces. The hydrogels with DOPA provided an enhancement in the flexibility compared to unmodified hydrogels, alongside reduced swelling behavior on the biomimetic hydrogels. This approach expands the possible applications of hydrogels as adhesive materials, in wet conditions, within scaffolds that are commonly used as biomaterials in cartilage tissue engineering.
-
-## Actin filaments function as a tension sensor by tension-dependent binding of cofilin to the filament
-- **Auther**: Hayakawa, Tatsumi, Sokabe
-- **Publication**: 2011-11-28
-- **Abstract**: Intracellular and extracellular mechanical forces affect the structure and dynamics of the actin cytoskeleton. However, the underlying molecular and biophysical mechanisms, including how mechanical forces are sensed, are largely unknown. Actin-depolymerizing factor/cofilin proteins are actin-modulating proteins that are ubiquitously distributed in eukaryotes, and they are the most likely candidate as proteins to drive stress fiber disassembly in response to changes in tension in the fiber. In this study, we propose a novel hypothesis that tension in an actin filament prevents the filament from being severed by cofilin. To test this, we placed single actin filaments under tension using optical tweezers. When a fiber was tensed, it was severed after the application of cofilin with a significantly larger delay in comparison with control filaments suspended in solution. The binding rate of cofilin to an actin bundle decreased when the bundle was tensed. These results suggest that tension in an actin filament reduces the cofilin binding, resulting in a decrease in its effective severing activity.
-
-## Stretching Single Talin Rod Molecules Activates Vinculin Binding
-- **Auther**: del Rio, Perez-Jimenez, Liu, Roca-Cusachs, Fernandez, Sheetz
-- **Publication**: 2009-01-30
-- **Abstract**: The molecular mechanism by which a mechanical stimulus is translated into a chemical response in biological systems is still unclear. We show that mechanical stretching of single cytoplasmic proteins can activate binding of other molecules. We used magnetic tweezers, total internal reflection fluorescence, and atomic force microscopy to investigate the effect of force on the interaction between talin, a protein that links liganded membrane integrins to the cytoskeleton, and vinculin, a focal adhesion protein that is activated by talin binding, leading to reorganization of the cytoskeleton. Application of physiologically relevant forces caused stretching of single talin rods that exposed cryptic binding sites for vinculin. Thus in the talin-vinculin system, molecular mechanotransduction can occur by protein binding after exposure of buried binding sites in the talin-vinculin system. Such protein stretching may be a more general mechanism for force transduction.
-
-## Non-channel mechanosensors working at focal adhesion-stress fiber complex
-- **Auther**: Hirata, Tatsumi, Hayakawa, Sokabe
-- **Publication**: 2015-01-01
-- **Abstract**: Mechanosensitive ion channels (MSCs) have long been the only established molecular class of cell mechanosensors; however, in the last decade, a variety of non-channel type mechanosensor molecules have been identified. Many of them are focal adhesion-associated proteins that include integrin, talin, and actin. Mechanosensors must be non-soluble molecules firmly interacting with relatively rigid cellular structures such as membranes (in terms of lateral stiffness), cytoskeletons, and adhesion structures. The partner of MSCs is the membrane in which MSC proteins efficiently transduce changes in the membrane tension into conformational changes that lead to channel opening. By contrast, the integrin, talin, and actin filament form a linear complex of which both ends are typically anchored to the extracellular matrices via integrins. Upon cell deformation by forces, this structure turns out to be a portion that efficiently transduces the generated stress into conformational changes of composite molecules, leading to the activation of integrin (catch bond with extracellular matrices) and talin (unfolding to induce vinculin bindings). Importantly, this structure also serves as an “active” mechanosensor to detect substrate rigidity by pulling the substrate with contraction of actin stress fibers (SFs), which may induce talin unfolding and an activation of MSCs in the vicinity of integrins. A recent study demonstrates that the actin filament acts as a mechanosensor with unique characteristics; the filament behaves as a negative tension sensor in which increased torsional fluctuations by tension decrease accelerate ADF/cofilin binding, leading to filament disruption. Here, we review the latest progress in the study of those non-channel mechanosensors and discuss their activation mechanisms and physiological roles.
-
-## Sensing substrate rigidity by mechanosensitive ion channels with stress fibers and focal adhesions
-- **Auther**: Kobayashi, Sokabe
-- **Publication**: 2010-10-01
-- **Abstract**: Cell motility, spreading, proliferation and differentiation are critically influenced by substrate rigidity. To sense substrate rigidity, cells apply traction forces to cell–substrate adhesions via actin stress fibers (SFs) and measure mechanical responses of the substrate. Besides mechanosensitive adaptor proteins, mechanosensitive (MS) channels are involved in the substrate rigidity sensing. MS channels located at or near focal adhesions (FAs) convert the rigidity-dependent stress generated in SF/FA system into the level of cytoplasmic Ca2+ concentration ([Ca2+]cyt) by locally altering their Ca2+ permeability. Besides by external forces, cells spontaneously generate rigidity-dependent localized [Ca2+]cyt increases, implicating MS channels as intrinsic force measurement system. This mechanism may contribute to not only substrate rigidity sensing but also regulation of cell migration.
-
-## Matrix Elasticity Directs Stem Cell Lineage Specification
-- **Auther**: Engler, Sen, Sweeney, Discher
-- **Publication**: 2006-08-25
-- **Abstract**: Microenvironments appear important in stem cell lineage specification but can be difficult to adequately characterize or control with soft tissues. Naive mesenchymal stem cells (MSCs) are shown here to specify lineage and commit to phenotypes with extreme sensitivity to tissue-level elasticity. Soft matrices that mimic brain are neurogenic, stiffer matrices that mimic muscle are myogenic, and comparatively rigid matrices that mimic collagenous bone prove osteogenic. During the initial week in culture, reprogramming of these lineages is possible with addition of soluble induction factors, but after several weeks in culture, the cells commit to the lineage specified by matrix elasticity, consistent with the elasticity-insensitive commitment of differentiated cell types. Inhibition of nonmuscle myosin II blocks all elasticity-directed lineage specification–without strongly perturbing many other aspects of cell function and shape. The results have significant implications for understanding physical effects of the in vivo microenvironment and also for therapeutic uses of stem cells.
-
-## メカノバイオロジーの誕生と今後の展望(<特集>機械工学のフロンティアを切り開くバイオエンジニアリング)
-- **Auther**: 曽我部
-- **Publication**: 2017
-- **Abstract**: 
 
