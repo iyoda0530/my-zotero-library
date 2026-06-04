@@ -1,5 +1,10 @@
 # Zotero My Library
 
+## Controlling the Drying and Film Formation Processes of Polymer Solution Droplets with Addition of Small Amount of Surfactants
+- **Auther**: Kajiya, Kobayashi, Okuzono, Doi
+- **Publication**: 2009-11-26
+- **Abstract**: We studied how the addition of surfactants alters the drying and film formation processes of polymer solution droplets with contact lines strongly fixed by bank structures. We found that even if the amount of surfactant is quite small, it drastically changes the final profile of the polymer film from a ringlike profile to a flat profile. This property is observed commonly, irrespective of the polymer concentration, droplet volume, and type of solvent. We conjecture that the inhomogeneous distribution of the surfactant caused by the outward capillary flow induces the Marangoni flow directed toward the center of the droplet, which suppresses the outward flow. The present phenomenon implies an effective method for controlling the profile of the polymer film in inkjet printing technologies.
+
 ## フルテキスト
 - **Auther**: 
 - **Publication**: N/A
@@ -494,9 +499,4 @@
 - **Auther**: 松山
 - **Publication**: 2006
 - **Abstract**: The Mie's theory of light scattering by a small spherical particle was reviewed in details. It is a classic theory in which the light is treated as an electromagnetic wave, and the incident light activates oscillation of polarized charge in a sphere which results in a radiation of electromagnetic wave as the scattered light. The mathematical realization of the theory consists of some steps as: (1) vector wave equation is derived from Maxwell's equations, (2) general solution of the vector wave equation is obtained on spherical coordinates, (3) plane wave as incident light is expanded on the spherical coordinates, (4) scattered wave from the sphere satisfying the boundary conditions is obtained. Each step was explained in details in the review.
-
-## Multi-Functional Nanogels for Tumor Targeting and Redox-Sensitive Drug and siRNA Delivery
-- **Auther**: Adamo, Grimaldi, Campora, Bulone, Bondì, Al-Sheikhly, Sabatino, Dispenza, Ghersi
-- **Publication**: 2016/11
-- **Abstract**: (1) Background: A new family of nanosystems able to discern between normal and tumor cells and to release a therapeutic agent in controlled way were synthetized by e-beam irradiation. This technique permits to obtain biocompatible, sterile, carboxyl-functionalized polyvinylpyrrolidone (PVP-co-acrylic acid) nanogels (NGs); (2) Methods: Here, we performed a targeting strategy based on the recognition of over-expressed proteins on tumor cells, like the folate receptor. The selective targeting was demonstrated by co-culture studies and flow cytometry analysis, using folate conjugated NGs. Moreover, nanoparticles were conjugated to a chemotherapeutic drug or to a pro-apoptotic siRNA through a glutathione sensitive spacer, in order to obtain a controlled release mechanism, specific for cancer cells. The drug efficiency was tested on tumor and healthy cells by flow cytometric analysis, confocal and epifluorescence microscopy and cytotoxicity assay; the siRNA effect was investigated by RNAi experiment; (3) Results: The data obtained showed that the use of NGs permits a faster cargo release in cancer cells, in response to high cytosolic glutathione level, also improving their efficacy; (4) Conclusion: The possibility of releasing biological molecules in a controlled way and to recognize a specific tumor target allows overcoming the typical limits of the classic cancer therapy.
 
