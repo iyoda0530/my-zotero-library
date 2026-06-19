@@ -145,11 +145,6 @@
 - **Publication**: 2022-06-22
 - **Abstract**: Plasma medicine, a therapeutic technology that uses atmospheric-pressure plasma, is attracting much attention as an innovative tool for the medical field. Most of the plasma biomedical tools use direct effects, such as heat, optical stimulation, and reactive chemical species, on the lesion. Nanoparticulation techniques using indirect action by plasma, i.e., generation of electric fields, have the potential to be applied to promote transdermal absorption, where drugs pass through the barrier function of skin and penetrate into internal tissues. Here, we show a method to directly generate the nano-sized mist by passing a solution through the dielectric barrier discharge. This method enables us to produce the mist potentially in the nanometer size range for both water-based and oil-based solutions. Ease of mist generation was influenced by the plasma-induced changes in physical and chemical characteristics, including electrical conductivity, viscosity, and chemical species. We anticipate the developed method for nano-sized mist generation to provide a technique in the applications of the transdermal absorption system, including those related to pharmaceuticals and cosmetics.
 
-## Potential generation of nano-sized mist by passing a solution through dielectric barrier discharge | Scientific Reports
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -496,6 +491,11 @@
 - **Abstract**: Three-dimensional polymeric hydrogels are usually brittle and insulating in nature, which sets limitations to high-end applications. It remains a great challenge to develop electrically conductive and mechanically strong hydrogels. We developed polyacrylamide (PAM) composite hydrogels, by using electrically conductive yet processable graphene sheets and employing in situ free radical polymerization of acrylamide in the aqueous suspension of graphene sheets. Cost-effective graphene sheets were prepared via the simultaneous oxidation and sonication of commercial graphite, which could make the sheets compatible with hydrogel matrices. The sheets proved to reach a percolation threshold of electrical conductivity at 0.8vol% graphene in the hydrogel matrix; at 1.0vol% Young’s modulus and compressive strength were found to respective increase by 255% and 2000%. Graphene sheets were observed to uniformly disperse in the matrix and they had hydrogen bonding with PAM, both of which contributed to the improvements. The hydrogels hold many potential applications.
 
 ## 110-26-9 Substance Detail | CAS SciFinder
+- **Auther**: 
+- **Publication**: 
+- **Abstract**: 
+
+## 7646-67-5 Substance Detail | CAS SciFinder
 - **Auther**: 
 - **Publication**: 
 - **Abstract**: 
