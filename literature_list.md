@@ -1,5 +1,40 @@
 # Zotero My Library
 
+## anie202508730-sup-0001-suppmat
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## 表面張力と表面応力について
+- **Auther**: 新居
+- **Publication**: 1974
+- **Abstract**: 文献「表面張力と表面応力について」の詳細情報です。J-GLOBAL 科学技術総合リンクセンターは、国立研究開発法人科学技術振興機構（JST）が運営する、無料で研究者、文献、特許などの科学技術・医学薬学等の二次情報を閲覧できる検索サービスです。検索結果からJST内外の良質な一次情報等へ案内します。
+
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Wavelength Selective Single Molecule Photobase/Photoacid Generator Enabling Dynamic Control of Soft Matter Materials Functions
+- **Auther**: Ojha, Koay, Biswas, Oh, Vu, Truong, Singh
+- **Publication**: 2025
+- **Abstract**: Photoremovable protecting groups (PRPGs) enable precise spatiotemporal control over molecular release and functional activation. Recent advances have introduced wavelength-selective systems for sequential deprotection, broadening applications in drug delivery, material synthesis, and photopolymerization. In parallel, PRPGs play a crucial role in photobase generators (PBGs) and photoacid generators (PAGs), enabling oxygen-tolerant, spatially controlled polymerization and depolymerization through light-induced base and acid release. Herein, we present a novel benzophenazine-based photocleavable system capable of the sequential, wavelength-selective release of both a base and an acid. This design integrates 1,1,3,3-tetramethylguanidine (TMG) and p-toluene sulfonic acid functionalities, which are independently uncaged upon irradiation with blue (≥ 410 nm) and UV (≥ 310 nm) light, respectively. We demonstrated the versatility of this dual-responsive system in modulating soft matter properties, including wavelength-selective polymer crosslinking, degradation, and debonding-on-demand adhesives. This work establishes a new platform for advanced photochemical control over polymeric transformations, with broader implications in responsive soft matter engineering.
+
 ## Supplementary Information PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -110,20 +145,10 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## Genipin-cross-linked chitosan-based hydrogels: Reaction kinetics and structure-related characteristics
 - **Auther**: Dimida, Demitri, De Benedictis, Scalera, Gervaso, Sannino
 - **Publication**: 2015
 - **Abstract**: The main aim of this work is the synthesis and characterization of cross-linked chitosan systems. Chitosan hydrogels can be prepared by physical or chemical cross-linking of polymer chains. Chemical cross-linking, leading to the creation of hydrogel networks possessing improved mechanical properties and chemical stability, can be achieved using either synthetic agents or natural-based agents. In this work, the cross-linker Genipin, a naturally derived compound, was selected because of the lower acute toxicity compared to many other commonly used synthetic cross-linking reagents. In particular, the chemical stabilization of chitosan through genipin cross-linking molecules was performed and characterized by calorimetric analyses (differential scanning calorimetry), swelling measurements in different pHs, and ionic strength. The reaction kinetics was carried out by means of rheological measurements, and both the activation energy (Ea) and the reaction order (m) were calculated. The hydrogel analyses were carried out at different concentrations of genipin (GN1 and GN2). The results were used to evaluate the possibility to use the chemical cross-linked chitosan–genipin hydrogel for biomedical applications. © 2015 Wiley Periodicals, Inc. J. Appl. Polym. Sci. 2015, 132, 42256.
-
-## Snapshot
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
 
 ## IOP Full Text PDF
 - **Auther**: 
@@ -474,29 +499,4 @@
 - **Auther**: Fischler, Bolles
 - **Publication**: 6月 1, 1981
 - **Abstract**: A new paradigm, Random Sample Consensus (RANSAC), for fitting a model to experimental data is introduced. RANSAC is capable of interpreting/smoothing data containing a significant percentage of gross errors, and is thus ideally suited for applications in automated image analysis where interpretation is based on the data provided by error-prone feature detectors. A major portion of this paper describes the application of RANSAC to the Location Determination Problem (LDP): Given an image depicting a set of landmarks with known locations, determine that point in space from which the image was obtained. In response to a RANSAC requirement, new results are derived on the minimum number of landmarks needed to obtain a solution, and algorithms are presented for computing these minimum-landmark solutions in closed form. These results provide the basis for an automatic system that can solve the LDP under difficult viewing
-
-## Hygral Behavior of Superabsorbent Polymers with Various Particle Sizes and Cross-Linking Densities
-- **Auther**: Yun, Kim, Choi, Yeon
-- **Publication**: 2017/11
-- **Abstract**: This study focuses on investigating the effects of particle size and cross-linking density on the hygral behavior of superabsorbent polymers (SAPs), which are increasingly used as an internal curing material for high-performance concrete. Four SAPs with different mean particle diameters and cross-linking densities were tested under controlled wetting and drying conditions to measure free absorption and desorption kinetics. Absorption capacities of SAPs under actual mixing conditions were additionally measured and verified by means of mortar flow and semi-adiabatic hydration heat measurements. In addition, the effects of SAP type and dosage (i.e., 0.2, 0.4, and 0.6% by mass of cement) on the mechanical properties of hardened mortar were assessed. The results indicated that: (1) the absorption capacity increased with decreased cross-linking density and increased particle size under both load-free and mixing conditions; and (2) the greater the cross-linking density and the lower the particle size, the shorter the desorption time. It was also confirmed that while the early-age mechanical properties were more related with the gel strength of swollen SAP, the later-age mechanical properties were more affected by the water retention capacity and spatial distribution of SAP in the matrix.
-
-## Water-Triggered Ductile–Brittle Transition of Anisotropic Lamellar Hydrogels and Effect of Confinement on Polymer Dynamics
-- **Auther**: Ilyas, Haque, Yue, Kurokawa, Nakajima, Nonoyama, Gong
-- **Publication**: 2017-10-24
-- **Abstract**: We study the effect of dehydration on the structure and mechanical properties of anisotropic lamellar hydrogels, consisting of alternative stacking of several thousands of nanoscale rigid bilayers from amphiphilic poly(dodecyl glyceryl itaconate) (PDGI) and submicroscale soft hydrogel layers from hydrophilic polyacrylamide (PAAm) networks. We found that the layered microstructure is well preserved with dehydration, and a ductile–brittle transition occurs at the critical water content. This transition is related to the rubbery–glassy transition of the PAAm layers, which occurs at 58 wt % water content and is much higher than 26 wt % of bulk PAAm hydrogels. Such specific behavior of the lamellar hydrogels indicates that the dynamics of the submicroscale PAAm hydrated layer intercalated between the rigid bilayers are very different from its bulk state.
-
-## Novel polyacrylamide hydrogels by highly conductive, water-processable graphene
-- **Auther**: Alam, Kuan, Zhao, Xu, Ma
-- **Publication**: 2017-02-01
-- **Abstract**: Three-dimensional polymeric hydrogels are usually brittle and insulating in nature, which sets limitations to high-end applications. It remains a great challenge to develop electrically conductive and mechanically strong hydrogels. We developed polyacrylamide (PAM) composite hydrogels, by using electrically conductive yet processable graphene sheets and employing in situ free radical polymerization of acrylamide in the aqueous suspension of graphene sheets. Cost-effective graphene sheets were prepared via the simultaneous oxidation and sonication of commercial graphite, which could make the sheets compatible with hydrogel matrices. The sheets proved to reach a percolation threshold of electrical conductivity at 0.8vol% graphene in the hydrogel matrix; at 1.0vol% Young’s modulus and compressive strength were found to respective increase by 255% and 2000%. Graphene sheets were observed to uniformly disperse in the matrix and they had hydrogen bonding with PAM, both of which contributed to the improvements. The hydrogels hold many potential applications.
-
-## 110-26-9 Substance Detail | CAS SciFinder
-- **Auther**: 
-- **Publication**: 
-- **Abstract**: 
-
-## 7646-67-5 Substance Detail | CAS SciFinder
-- **Auther**: 
-- **Publication**: 
-- **Abstract**: 
 
