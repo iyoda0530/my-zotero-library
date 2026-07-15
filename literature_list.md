@@ -1,5 +1,30 @@
 # Zotero My Library
 
+## Huggins et al., Journal of the American Chemical Society, 1942.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Xue et al., Carbohydrate Polymers, 2019.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Ishikawa et al., Nature Materials, 2023 3.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Kashani et al., Soft Matter, 2024 2.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## 新居 et al., 日本金属学会会報, 1974.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Matsunaga et al., Physical Review E, 2007.pdf
 - **Auther**: 
 - **Publication**: N/A
@@ -71,31 +96,6 @@
 - **Abstract**: なし
 
 ## Carré et al., Journal of Colloid and Interface Science, 1997.pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Kashani et al., Soft Matter, 2024.pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Chen et al., Current Opinion in Colloid & Interface Science, 2018.pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Yasunaga et al., Polymer Gels and Networks, 1993.pdf
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Lin et al., Polymer, 2019.pdf
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
