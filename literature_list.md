@@ -1,5 +1,10 @@
 # Zotero My Library
 
+## 7510.pdf
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -491,11 +496,6 @@
 - **Abstract**: なし
 
 ## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
