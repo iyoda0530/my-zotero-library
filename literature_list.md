@@ -50,17 +50,17 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## 受け入れたバージョン
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
@@ -100,42 +100,42 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
 ## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
@@ -275,17 +275,22 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## 受け入れたバージョン
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
 
 ## ScienceDirect Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
@@ -436,11 +441,6 @@
 - **Abstract**: なし
 
 ## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
