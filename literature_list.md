@@ -1,5 +1,41 @@
 # Zotero My Library
 
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Osmotic Pressure-Based Quantification of Network Inhomogeneity in Gels via Free Radical Polymerization
+- **Auther**: Ito, Sakumichi, Masuda, Sakai
+- **Publication**: 2025-06-10
+- **Abstract**: Polymer gels synthesized via free radical polymerization
+inherently
+exhibit pronounced network inhomogeneity due to spatially nonuniform cross-linking distributions. While conventional light scattering techniques have been widely used to characterize these inhomogeneities, they lack quantitative reliability, particularly in turbid samples, where multiple scattering complicates analysis. Here, we present a novel macroscopic approach based on osmotic pressure measurements that enables the direct quantification of network inhomogeneity in polymer gels. By comparing the measured osmotic pressure of gels with that predicted for homogeneous semidilute polymer solutions, we quantify the fraction of insoluble polymer domains that contribute negligibly to the overall osmotic pressure. Using poly­(N,N-dimethylacrylamide)
+(PDMAAm) hydrogels as a model system, we find a scaling law that predicts the fraction of insoluble polymer domains as a function of monomer and cross-linker concentrations. This scaling law provides a practical guideline for controlling network inhomogeneity. Our approach establishes a general framework for quantifying insoluble components in gels, overcoming the limitations of conventional semiquantitative characterization techniques.
+
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## A Hierarchical Framework for Evaluating Network Homogeneity in Polymer Gels
+- **Auther**: Ito, Masuda, Sakumichi, Sakai
+- **Publication**: 2026-05-12
+- **Abstract**: Polymer gels prepared by radical polymerization are widely
+believed
+to exhibit intrinsic network inhomogeneity, yet quantitative criteria to distinguish different levels of homogeneity remain limited. Here we establish a quantitative framework to evaluate network homogeneity in polymer gels by integrating optical, osmotic, and elastic criteria. While reversible addition–fragmentation chain transfer (RAFT)
+polymerization improves the transparency of gels, optical transparency alone does not guarantee homogeneous polymer distribution. Osmotic pressure analysis provides a physically defined primary criterion for network homogeneity, enabling identification of osmotically homogeneous networks. Using this criterion, we show that increasing the monomer concentration beyond a critical level achieves osmotic homogeneity independent of the polymerization scheme, whereas RAFT-mediated polymerization provides only partial improvement at lower monomer concentrations under high cross-linker content. We further demonstrate that elastic effectiveness constitutes a subset of osmotic homogeneity. Even within the osmotically homogeneous regime, elastic effectiveness depends on the network topology: networks prepared by RAFT polymerization exhibit elasticity closer to the ideal proportionality between elastic modulus and cycle rank than their counterparts prepared by free radical polymerization. Together, these results establish a hierarchical relationship among optical transparency, osmotic homogeneity, and elastic effectiveness in polymer gels, providing a unified framework for evaluating the network homogeneity beyond conventional qualitative indicators.
+
 ## 7510.pdf
 - **Auther**: 
 - **Publication**: N/A
@@ -466,36 +502,6 @@
 - **Abstract**: なし
 
 ## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Kashani et al., Soft Matter, 2024
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
