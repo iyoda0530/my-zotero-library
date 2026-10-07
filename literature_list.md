@@ -1,5 +1,20 @@
 # Zotero My Library
 
+## J-Stage - Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## 68.ftirを用いた各種高分子内の水素結合分布の定量的な評価法とその反応に伴う変化
+- **Auther**: 三浦, 前, 草川
+- **Publication**: 1998
+- **Abstract**: The method proposed by the authers to estimate the distribution of hydrogen bondings in coal was applied to estimate the enthalpies due to the desorption of water and the dehydration reaction. The validity of the proposed method was clalified, and a procedure was developed to estimate the enthalpies from only FTIR spectra.
+
 ## Snapshot
 - **Auther**: 
 - **Publication**: N/A
@@ -487,21 +502,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
