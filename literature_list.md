@@ -1,5 +1,15 @@
 # Zotero My Library
 
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Mesoscopic Heterogeneity in Supramolecular Network Systems
+- **Auther**: Shundo, Tanaka
+- **Publication**: 2014
+- **Abstract**: 
+
 ## J-Stage - Snapshot
 - **Auther**: 
 - **Publication**: N/A
@@ -492,16 +502,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
