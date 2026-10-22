@@ -1,5 +1,10 @@
 # Zotero My Library
 
+## Advances in the microrheology of complex fluids
+- **Auther**: Waigh
+- **Publication**: 2016-06
+- **Abstract**: New developments in the microrheology of complex fluids are considered. Firstly the requirements for a simple modern particle tracking microrheology experiment are introduced, the error analysis methods associated with it and the mathematical techniques required to calculate the linear viscoelasticity. Progress in microrheology instrumentation is then described with respect to detectors, light sources, colloidal probes, magnetic tweezers, optical tweezers, diffusing wave spectroscopy, optical coherence tomography, fluorescence correlation spectroscopy, elastic- and quasi-elastic scattering techniques, 3D tracking, single molecule methods, modern microscopy methods and microfluidics. New theoretical techniques are also reviewed such as Bayesian analysis, oversampling, inversion techniques, alternative statistical tools for tracks (angular correlations, first passage probabilities, the kurtosis, motor protein step segmentation etc), issues in micro/macro rheological agreement and two particle methodologies. Applications where microrheology has begun to make some impact are also considered including semi-flexible polymers, gels, microorganism biofilms, intracellular methods, high frequency viscoelasticity, comb polymers, active motile fluids, blood clots, colloids, granular materials, polymers, liquid crystals and foods. Two large emergent areas of microrheology, non-linear microrheology and surface microrheology are also discussed.
+
 ## PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -497,11 +502,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
