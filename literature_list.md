@@ -1,5 +1,35 @@
 # Zotero My Library
 
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Passive nanorheological tool to characterise hydrogels
+- **Auther**: Lorenzo Lopez, Kearns, Patterson, Curran
+- **Publication**: 2025-07-07
+- **Abstract**: Hydrogels are highly versatile, multi-phase materials with a wide variety of applications, due to their complex structures and tuneable features at the micron and sub-micron scale. Physical and chemical properties within the local environments contribute to the overall properties of a hydrogel. Current quantitative techniques used to characterise the properties of a hydrogel usually focus on bulk properties and are limited to identifying macroscopic properties, providing little information about local variations and heterogeneity, or fail to provide insight into real-time dynamic responses to external stimuli. These issues are especially challenging when characterising soft hydrogels due to their high-water content, which induces weak signals and noisy data. Here, we present a passive nanorheological tool that indirectly enables the characterisation of soft hydrogels at the micro/nanoscale by tracking nanoprobes with a label-free optical microscopy technique, making this an inexpensive, time-efficient, and user-friendly tool. This tool allows effective mapping of the properties in local micro/nano environments in heterogeneous soft materials thus permitting the identification of real-time sol–gel phase transition in thermosensitive hydrogels. Hence, this novel nanorheological characterisation tool has great potential for use in soft material design, manufacturing and quality control processes.
+
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Microrheology for biomaterial design
+- **Auther**: Joyner, Yang, Duncan
+- **Publication**: 2020-02
+- **Abstract**: Microrheology analyzes the microscopic behavior of complex materials by measuring the diffusion and transport of embedded particle probes. This experimental method can provide valuable insight into the design of biomaterials with the ability to connect material properties and biological responses to polymer-scale dynamics and interactions. In this review, we discuss how microrheology can be harnessed as a characterization method complementary to standard techniques in biomaterial design. We begin by introducing the core principles and instruments used to perform microrheology. We then review previous studies that incorporate microrheology in their design process and highlight biomedical applications that have been supported by this approach. Overall, this review provides rationale and practical guidance for the utilization of microrheological analysis to engineer novel biomaterials.
+
 ## Advances in the microrheology of complex fluids
 - **Auther**: Waigh
 - **Publication**: 2016-06
@@ -467,36 +497,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## フルテキスト
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
