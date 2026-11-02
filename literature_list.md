@@ -5,6 +5,16 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## Sponge-like Heterogeneous Gels: Hierarchical Structures in Poly(N-isopropylacrylamide) Chemical Gels As Observed by Combined Scattering and Confocal Microscopy Method
+- **Auther**: Hirokawa, Okamoto, Kimishima, Jinnai, Koizumi, Aizawa, Hashimoto
+- **Publication**: 2008-11-11
+- **Abstract**: Internal structures of the opaque poly(N-isopropylacrylamide) gel obtained at the preparation temperature (TP) higher than 24.5 °C was found to have hierarchical structures by means of a combined small-angle-scattering (CSAS) method of small-angle light scattering (SALS), ultra-small-angle neutron scattering (USANS), and small-angle neutron scattering (SANS) with an aid of laser scanning confocal microscopy (LSCM). The combined CSAS and LSCM studies revealed that a global structure of the gels had a sponge-like two-phase structure. The polymer-rich phase of the sponge was filled with microgels having highly cross-linked network (“tight network”) chains that are interconnected by loosely cross-linked network (“loose network”) chains swollen with water, while the other phase of the sponge was mostly composed of water. These two phases were cocontinuous in three-dimensional space, hence, forming macroscopic gels. The SALS and USANS studies clarified that the sponge had a characteristic spacing of ≈12 μm and the mass fractal structure characterized by its dimension = 2.5, the upper and lower cutoff lengths were ≈6 and ≈0.5 μm, respectively. The physical meaning of these values is discussed in the text. The SANS studies further revealed the following characteristic parameters about the local structure of the gels: the microgel of diameter ≈ 60 nm; the thermal correlation lengths of the loose and tight network chains ≈ 11 and ≈ 1.2 nm, respectively, though these are averaged values in the range of TP, 24.5 ≤ TP (°C) ≤ 38.0. The swelling behavior of the gels was also studied and discussed in light of the sponge-like gel model. The mechanism of the formation of the hierarchical structures was discussed on the basis of the special reaction field where the two-step cross-linking reaction occurs, as detailed in the text.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -196,12 +206,12 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Publication**: N/A
 - **Abstract**: なし
 
-## PDF
+## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
 
-## Full Text PDF
+## PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
@@ -487,16 +497,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## フルテキスト
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
