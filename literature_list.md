@@ -1,5 +1,25 @@
 # Zotero My Library
 
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Evaluation of incoherent scattering intensity by transmission and sample thickness
+- **Auther**: Shibayama, Matsunaga, Nagao
+- **Publication**: 2009-08-01
+- **Abstract**: The H atom has a large incoherent scattering cross section and is a major source of incoherent scattering intensity, (dΣ/dΩ)inc, in small-angle neutron scattering. By taking account of multiple scattering from H atoms, a useful method (the transmission method or T method) is proposed for the estimation of (dΣ/dΩ)inc for various types of hydrogen-containing systems. The incoherent scattering intensity is calculated simply from the transmission, T, and the thickness of the sample, t, i.e. (dΣ/dΩ)inc ≅ [exp(Σtott) − 1]/(4πt) = (1 − T)/(4πtT), where Σtot ≡ −(lnT)/t is the macroscopic total cross section per unit volume. This method provides a reasonably accurate value of incoherent scattering intensity for various systems. The validity and the extent of applicability of the T method are examined for several samples, including light/heavy water mixtures, polymer gels and surfactant aqueous dispersions.
+
+## 2010 Vol.59 No.6 連載講座 柴山充弘
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Snapshot
 - **Auther**: 
 - **Publication**: N/A
@@ -477,26 +497,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
