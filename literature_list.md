@@ -5,6 +5,35 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## 報告したバージョン
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Effect of Structure Heterogeneity on Mechanical Performance of Physical Polyampholytes Hydrogels
+- **Auther**: Cui, Ye, Sun, Chen, Li, Kurokawa, Nakajima, Nonoyama, Gong
+- **Publication**: 2019-10-08
+- **Abstract**: Recent
+studies reported a multiscale structure in tough and self-healing hydrogels containing physical associations. For example, a type of tough and self-healing hydrogel from charge-balanced polyampholytes (PA) has a mesoscale bicontinuous double network structure with structural length around 400 nm. This mesoscale network structure plays an essential role in the multistep rupture process, which leads to the high toughness of PA hydrogels. In this work, by using an osmotic stress method, we symmetrically studied how the relative strength of soft and hard networks and the strength of ionic bonds influence the property of PA gels. We found that increasing osmotic stress of the bath solution triggers the structure transition from bicontinuous double network structure to a homogeneous structure, which drives the concurrently opaque–transparent transition in optical property and viscoelastic–glassy transition in mechanical behavior. The gels around the structural transition point were found to possess both high toughness (fracture energy of 7200 J m–2) and high stiffness (Young’s
+modulus of 12.9 MPa), which is a synergy of soft network and hard network of the bicontinuous structure. Our work not only provides an approach to tune the structure and property of physical hydrogels through tuning physical association but also gives a demo to investigate their relationships, yet another step forward gives inspiration to design a new type of tough and self-healing materials around the structural transition point.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Heterogeneity and its Influence on the Properties of Difunctional Poly(ethylene glycol) Hydrogels: Structure and Mechanics
+- **Auther**: Malo de Molina, Lad, Helgeson
+- **Publication**: 2015-08-11
+- **Abstract**: Difunctional polymer hydrogels, such
+as those prepared from poly­(ethylene
+glycol) diacrylate (PEGDA) macromers, are widely used for a number of potential applications in biotechnology and advanced materials due to their low cost, mild cross-linking conditions, and biocompatibility. The microstructure of such hydrogels is known to be heterogeneous, yet little is known about the specific structure itself, how it is impacted by the molecular parameters of the macromer, or its impact on macroscopic gel properties. Here, we determine the structure of PEGDA hydrogels using small-angle neutron scattering over a significant range of macromer molecular weights and volume fractions. From this, we propose a structural model for PEGDA hydrogels based on self-excluded, highly branched star polymers arranged into a fractal network. The primary implication of this structure is that heterogeneity arises not from defects in the cross-linking network, as is commonly assumed, but rather from a heterogeneous distribution of polymer concentration. This structural model provides a systematic explanation of the linear elasticity and swelling of PEGDA hydrogels.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Sponge-like Heterogeneous Gels: Hierarchical Structures in Poly(N-isopropylacrylamide) Chemical Gels As Observed by Combined Scattering and Confocal Microscopy Method
 - **Auther**: Hirokawa, Okamoto, Kimishima, Jinnai, Koizumi, Aizawa, Hashimoto
 - **Publication**: 2008-11-11
@@ -467,31 +496,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
