@@ -5,6 +5,21 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Polymer Architecture Effects on Poly(N,N-Diethyl Acrylamide)-b-Poly(Ethylene Glycol)-b-Poly(N,N-Diethyl Acrylamide) Thermoreversible Gels and Their Evaluation as a Healthcare Material
+- **Auther**: Haddow, da Silva, Kaldybekov, Dreiss, Hoffman, Hutter, Khutoryanskiy, Kirton, Mahmoudi, McAuley, Cook
+- **Publication**: 2022
+- **Abstract**: Thermoreversible gels which transition between liquid-like and solid-like states when warmed have enabled significant novel healthcare technologies. Poly(N,N-diethyl acrylamide) (PDEA) is a thermoresponsive polymer which can be used as a trigger to form thermoreversible gels, however its use in these materials is limited and crucial design principles are unknown. Herein ABA copolymers with the structure PDEA-b-poly(ethylene glycol) (PEG)-b-PDEA are synthesized to give four block copolymers with varied molecular weight of PDEA and PEG blocks. Rheometry on solutions of the block copolymers reveals that high molecular weight PEG blocks are required to form thermoreversible gels with predominantly solid-like behavior. Furthermore, small-angle X-ray scattering elucidates clear differences in the nanostructure of the copolymer library which can be linked to distinct rheological behaviors. A thermoreversible gel formulation based on PDEA (20 kDa)-b-PEG (10 kDa)-b-PDEA (20 kDa) is designed by optimizing the polymer concentration and ionic strength. It is found that the gel is mucoadhesive, stable, and non-toxic, as well as giving controlled release of a hydrophobic drug. Overall, this study provides insight into the effect of polymer architecture on the nanostructure and rheology of PDEA-b-PEG-b-PDEA and presents the development of a highly functional thermoreversible gel with high promise for healthcare applications.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## 報告したバージョン
 - **Auther**: 
 - **Publication**: N/A
@@ -486,21 +501,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## 報告したバージョン
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
