@@ -260,12 +260,12 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Publication**: N/A
 - **Abstract**: なし
 
-## PDF
+## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
 
-## Full Text PDF
+## PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
