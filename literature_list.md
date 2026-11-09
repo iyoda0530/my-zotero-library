@@ -5,6 +5,65 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## Nanostructure Evolution during Relaxation from a Large Step Strain in a Supramolecular Copolymer-Based Hydrogel: A SANS Investigation
+- **Auther**: Wiener, Wang, Liu, Weiss, Vogt
+- **Publication**: 2017-02-28
+- **Abstract**: The nanostructure changes associated
+with stress dissipation in
+a tough, supramolecular hydrogel were determined by small-angle neutron scattering (SANS) and compared with stress-relaxation measurements to understand the molecular origin of the toughness. The hydrogels
+were formed from random copolymers of N,N-dimethyl­acrylamide (DMA) and 2-(N-ethyl­perfluorooctane
+sulfonamido)­ethyl acrylate (FOSA), which exhibit a microphase-separated
+morphology with physical cross-links formed by the FOSA nanodomains
+connected by DMA chains. The stress relaxation behavior following
+a step strain was fit using seven exponentials with relaxation times
+that spanned 5 orders of magnitude. The deformation and relaxation
+of the FOSA nanodomains and network chains were independently resolved
+using two different contrasts with SANS experiments. Stretching of
+the hydrogel produced anisotropic scattering at both contrasts examined.
+The DMA network chains relaxed to an isotropic state at a fast rate
+that corresponded to the shorter stress relaxation time, while the
+nanodomain structure relaxed slower and did not fully relax after
+7 h. These SANS measurements provide correlations between relaxations
+at the macroscopic (stress) and microscopic (network chains and nanodomains)
+scales.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Unperturbed Volume Transition of Thermosensitive Poly-(N-isopropylacrylamide) Microgel Particles Embedded in a Hydrogel Matrix
+- **Auther**: Musch, Schneider, Lindner, Richtering
+- **Publication**: 2008-05-22
+- **Abstract**: The thermoresponsive behavior of poly-(N-isopropylacrylamide) (PNiPAM) microgels embedded in a covalently cross-linked polyacrylamide hydrogel matrix was investigated using ultraviolet−visible (UV−vis) spectroscopy, small-angle neutron scattering (SANS), and confocal laser scanning microscopy. The hydrogel synthesis was performed at two different temperatures, below and above the volume phase transition temperature of PNiPAM, resulting in highly swollen or fully collapsed PNiPAM microgel particles during the incorporation step. UV−vis spectroscopy experiments verify that the incorporation of thermosensitive microgels leads to temperature-sensitive optical properties of the composite materials. SANS measurements at different temperatures show that the thermosensitive swelling behavior of the PNiPAM microgels is fully retained in the composite material. Volume and structure criteria of the embedded microgel particles are compared to those of the free microgels in acrylamide solution. To visualize the temperature responsive behavior of larger PNiPAM particles, confocal fluorescence microscopy images of PNiPAM beads, of 40-µm size, were taken at two different temperatures. The micrographs also demonstrate the retained temperature sensitivity of the embedded microgels.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Composite hydrogels with temperature sensitive heterogeneities: influence of gel matrix on the volume phase transition of embedded poly-(N-isopropylacrylamide) microgels
+- **Auther**: Meid, Friedrich, Tieke, Lindner, Richtering
+- **Publication**: 2011-02-28
+- **Abstract**: The thermo-responsive behaviour of poly-(N-isopropylacrylamide) (PNiPAM) microgels embedded in covalently cross-linked non-temperature-sensitive polyacrylamide (PAam) hydrogel matrixes with different compositions was investigated by using small angle neutron scattering (SANS). The composition of the composite hydrogel was varied by (a) increasing the cross-linker and acrylamide concentration leading to strong hydrogel matrixes and (b) by increasing the microgel concentration to obtain composite gels with an internal structure. Additionally we synthesized composite hydrogels by using γ-irradiation as initiation for the polymerisation. This leads to the formation of chemical bonds between the PNiPAM microgels and the surrounding polyacrylamide matrix. Thus it is possible to synthesize hydrogels without an additional cross-linker, as well as pure particle networks. Some samples were prepared at two different temperatures, below and above the volume phase transition temperature of PNiPAM, resulting in highly swollen or totally collapsed microgels during the incorporation step. The volume phase transition of microgels is not influenced by a hydrogel matrix with high acrylamide concentration independent of the preparation temperature. However, an increased cross-linker concentration leads to a corset like constraint on microgel swelling. Microgels, which are embedded in the collapsed state (at 50 °C), are not able to swell upon cooling, whereas microgels embedded in the swollen state can collapse upon heating. For samples with an increased microgel concentration, the close microgel packing was disturbed by the formation of the polyacrylamide matrix. The hydrogel matrix squeezes the microgels together and leads to partial aggregation. The experiments demonstrate how composite hydrogels with stimuli-sensitive heterogeneities can be prepared such that the full responsiveness of the embedded microgels is retained while the macroscopic dimensions of the gel are not affected by the volume phase transition of the microgels.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Tough Hydrogels with Dynamic H‑Bonds: Structural Heterogeneities and Mechanical Performances
+- **Auther**: Lian, Fan, Cui, Yin, Yang, Jiang, Tang, Sun
+- **Publication**: 2021-10-12
+- **Abstract**: The recently developed tough and self-healing hydrogels, containing a large number of physical bonds, have found widespread applications in bioengineering and soft electronics. Owing to the sophisticated physical interactions and organization, these hydrogels often demonstrate structural heterogeneities, which strongly influence their mechanical performances. Using poly­(N,N-dimethyl acrylamide-co-methacrylic acid) hydrogels (P­(DMAA-co-MAAc)) with dynamic hydrogen
+bonds (H-bonds) as a model system, the structural characterization has been carried out in this study using small-angle X-ray scattering (SAXS) and small-angle neutron scattering (SANS) analyses, along with exploring the influence of the structure on the mechanical properties. By systematically tuning the polymer composition, including the monomer fraction and chemical cross-linking density, two different hydrogel regions with distinct mechanical properties were observed: the swollen regions and shrunk regions. The former was mechanically weak, whereas the latter exhibited a tough behavior. Both types of hydrogels were noted to be highly heterogeneous, which results from the nanoscale spatial polymer concentration fluctuations at ∼100 nm scale.
+Combined with the contrast variation utilizing SANS, the structure parameters, including the polymer volume fraction of the dense and sparse regions, volume fraction occupied in the space, and average correlation length of the long-range and short-range heterogeneous structures, were explored using a scaling model based on a two-phase system composed of the densely and sparsely cross-linked regions. Using in situ SAXS, the microscopic deformation of the tough and shrunk hydrogels was noted to follow the affine deformation, while a significantly non-affine deformation was observed in the swollen hydrogels, which might have led to the different mechanical performances of these materials.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -335,6 +394,11 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Publication**: N/A
 - **Abstract**: なし
 
+## Full Text PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## PDF
 - **Auther**: 
 - **Publication**: N/A
@@ -351,11 +415,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## ScienceDirect Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
@@ -440,6 +499,11 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Publication**: N/A
 - **Abstract**: なし
 
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## 受け入れたバージョン
 - **Auther**: 
 - **Publication**: N/A
@@ -461,51 +525,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## ScienceDirect Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## フルテキスト
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## 報告したバージョン
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
