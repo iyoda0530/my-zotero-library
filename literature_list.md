@@ -5,6 +5,23 @@
 - **Publication**: N/A
 - **Abstract**: なし
 
+## PDF
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
+## Mild and Selective Heterogeneous Catalytic Hydration of Nitriles to Amides by Flowing through Manganese Dioxide
+- **Auther**: Battilocchio, Hawkins, Ley
+- **Publication**: 2014-02-21
+- **Abstract**: A sustainable flow
+chemistry process for the hydration of nitriles,
+whereby an aqueous solution of the nitrile is passed through a column containing commercially available amorphous manganese dioxide, has been developed. The product is obtained simply by concentration of the output stream without any other workup steps. The protocol described is rapid, robust, reliable, and scalable, and it has been applied to a broad range of substrates, showing a high level of chemical tolerance.
+
+## Snapshot
+- **Auther**: 
+- **Publication**: N/A
+- **Abstract**: なし
+
 ## Nanostructure Evolution during Relaxation from a Large Step Strain in a Supramolecular Copolymer-Based Hydrogel: A SANS Investigation
 - **Auther**: Wiener, Wang, Liu, Weiss, Vogt
 - **Publication**: 2017-02-28
@@ -505,21 +522,6 @@ polymerization improves the transparency of gels, optical transparency alone doe
 - **Abstract**: なし
 
 ## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## Full Text PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## PDF
-- **Auther**: 
-- **Publication**: N/A
-- **Abstract**: なし
-
-## ScienceDirect Full Text PDF
 - **Auther**: 
 - **Publication**: N/A
 - **Abstract**: なし
